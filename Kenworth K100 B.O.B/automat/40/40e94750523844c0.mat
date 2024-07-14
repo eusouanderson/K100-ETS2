@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.mult.dif.spec.add.env.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/kenworth.k100e_of/grille_clr.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/kenworth.k100e_of/grille_ao.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	texture[3] : "/vehicle/truck/kenworth.k100e_of/grille_nm.tobj"
+	texture_name[3] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.0782381 , 0.0782381 , 0.0782381 }
+	env_factor : { 0.393123 , 0.393123 , 0.393123 }
+	fresnel : { 1 , 1 }
+	reflection : 0
+	shininess : 10
+	specular : { 0.348958 , 0.348958 , 0.348958 }
+}

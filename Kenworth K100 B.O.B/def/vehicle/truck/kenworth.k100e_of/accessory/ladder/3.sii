@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 3.kenworth.k100e_of.ladder
+{
+	name: "Aus ladder"
+	price: 450
+	unlock: 0
+	icon: "k100e_of/ladder1"
+	variant: 3
+	exterior_model: "/vehicle/truck/upgrade/ladder/kenworth.k100e_of/ladder01.pmd"
+	coll: "/vehicle/truck/upgrade/ladder/kenworth.k100e_of/ladder01.pmc"
+}
+}

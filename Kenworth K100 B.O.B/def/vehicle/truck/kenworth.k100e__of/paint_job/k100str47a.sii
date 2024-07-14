@@ -1,0 +1,34 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str47a.kenworth.k100e__of.paint_job
+{
+    name:                            "Continental"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str47"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str47a.tobj"
+    mask_g_color:                   (0.8, 0.8, 0.8)
+    mask_b_color:                   (0.4834, 0.3424, 0.1138)
+    base_color:                     (0.2530, 0.0047, 0.0169)
+    mask_b_locked:                  false
+    mask_g_locked:                  false
+    mask_r_locked:                  true
+    base_color_locked:              false
+	suitable_for[]: "1.kenworth.k100e__of.cabin"
+	suitable_for[]: "3.kenworth.k100e__of.cabin"
+
+	color_variant[]: (0.0284, 0.2141, 0.3791)
+	color_variant[]: (0.0354, 0.0354, 0.1388)
+	color_variant[]: (0.3600, 0.0188, 0.0188)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+
+	color_variant[]: (0.0019, 0.0019, 0.0019)
+	color_variant[]: (0.4238, 0.3414, 0.0535)
+	color_variant[]: (0.5552, 0.0074, 0.0074)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+
+
+}
+}

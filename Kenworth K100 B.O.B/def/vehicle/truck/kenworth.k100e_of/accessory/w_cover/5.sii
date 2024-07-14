@@ -1,0 +1,25 @@
+SiiNunit
+{
+accessory_addon_data : 5.kenworth.k100e_of.w_cover
+{
+	name: "Window cover"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/cover5"
+	look: 5
+	exterior_model: "/vehicle/truck/upgrade/w_cover/kenworth.k100e_of/w_cover01.pmd"
+	interior_model: "/vehicle/truck/upgrade/w_cover/kenworth.k100e_of/w_cover01.pmd"
+	suitable_for[]: "1_1d.kenworth.k100e_of.interior"
+	suitable_for[]: "1_3d.kenworth.k100e_of.interior"
+	suitable_for[]: "2_3d.kenworth.k100e_of.interior"
+	suitable_for[]: "3_1d.kenworth.k100e_of.interior"
+	suitable_for[]: "3_3d.kenworth.k100e_of.interior"
+	suitable_for[]: "4_3d.kenworth.k100e_of.interior"
+	suitable_for[]: "1_1i.kenworth.k100e_of.interior"
+	suitable_for[]: "1_3i.kenworth.k100e_of.interior"
+	suitable_for[]: "2_3i.kenworth.k100e_of.interior"
+	suitable_for[]: "3_1i.kenworth.k100e_of.interior"
+	suitable_for[]: "3_3i.kenworth.k100e_of.interior"
+	suitable_for[]: "4_3i.kenworth.k100e_of.interior"
+}
+}

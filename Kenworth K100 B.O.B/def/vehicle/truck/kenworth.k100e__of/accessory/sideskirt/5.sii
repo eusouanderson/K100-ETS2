@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : 5.kenworth.k100e__of.sideskirt
+{
+	name: "Steps"
+	price: 400
+	unlock: 0
+	icon: "k100e_of/skirt1"
+	variant: 7
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/kenworth.k100e_of/steps01.pmd"
+	suitable_for[]: "7a.kenworth.k100e__of.chassis"
+	suitable_for[]: "7b.kenworth.k100e__of.chassis"
+}
+}

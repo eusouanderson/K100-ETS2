@@ -1,0 +1,42 @@
+SiiNunit
+{
+accessory_transmission_data : 18_speed3.kenworth.k100e__of.transmission
+{
+	name: "18 speed (slow)"
+	price: 8550
+	unlock: 0
+	icon: "k100e_of/tran_eaton"
+
+	# UltraShift PLUS VXP 18B
+	# Differential Ratio: 3.25, 3.55, 3.91, 4.10, 4.33
+
+	differential_ratio: 4.33
+
+	# reverse gear
+	ratios_reverse[0]: -14.71
+	ratios_reverse[1]: -12.45
+	ratios_reverse[2]: -3.89
+	ratios_reverse[3]: -3.29
+
+	# forward gears
+	ratios_forward[0]: 14.71
+	ratios_forward[1]: 12.45
+	ratios_forward[2]: 10.20
+	ratios_forward[3]: 8.62
+	ratios_forward[4]: 7.34
+	ratios_forward[5]: 6.21
+	ratios_forward[6]: 5.26
+	ratios_forward[7]: 4.45
+	ratios_forward[8]: 3.78
+	ratios_forward[9]: 3.20
+	ratios_forward[10]: 2.70
+	ratios_forward[11]: 2.28
+	ratios_forward[12]: 1.94
+	ratios_forward[13]: 1.64
+	ratios_forward[14]: 1.39
+	ratios_forward[15]: 1.18
+	ratios_forward[16]: 1.00
+	ratios_forward[17]: 0.85
+@include "sound.sui"
+}
+}

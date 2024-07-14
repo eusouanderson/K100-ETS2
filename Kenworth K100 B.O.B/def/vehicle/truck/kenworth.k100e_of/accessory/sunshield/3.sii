@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 3.kenworth.k100e_of.sunshield
+{
+	name: "Custom visor"
+	price: 2000
+	unlock: 0
+	icon: "k100e_of/visor4"
+	exterior_model: "/vehicle/truck/upgrade/sunshield/kenworth.k100e_of/visor03.pmd"
+	interior_model: "/vehicle/truck/upgrade/sunshield/kenworth.k100e_of/visor03_int.pmd"
+	conflict_with[]: "1.kenworth.k100e_of.f_mirror"
+
+
+}
+}

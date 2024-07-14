@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : standard.kenworth.k100e__of.steering_w
+{
+	name: "Volvo"
+	price: 1200
+	unlock: 0
+	icon: "steering_w/volvo_fh16_2012/default_look1"
+	interior_model: "/vehicle/truck/volvo_fh16_2012/accessory/steering_w/default1.pmd"
+	look: look1
+	suitable_for[]: "color8.kenworth.k100e__of.paint_job"
+}
+}

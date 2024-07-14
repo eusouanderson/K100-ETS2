@@ -1,0 +1,42 @@
+SiiNunit
+{
+accessory_engine_data : isx15_450.kenworth.k100e_of.engine
+{
+	name: "Cummins ISX15 450"
+	price: 27900
+	unlock: 0
+	info[]: "450 @@hp@@ (336@@kw@@)"
+	info[]: "1@@dg@@650 @@lb_ft@@ (2237@@nm@@)"
+	info[]: "1@@dg@@200 @@rpm@@"
+
+	icon: "engine_cummins_isx15"
+
+	torque: 2237
+	volume: 14.9
+
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.5)
+	torque_curve[]: (1150, 1)
+	torque_curve[]: (1400, 1)
+	torque_curve[]: (1800, 0.79)
+	torque_curve[]: (2000, 0.71)
+	torque_curve[]: (2400, 0)
+
+	rpm_idle: 650
+	rpm_limit: 2000
+	rpm_limit_neutral: 1600
+	rpm_range_low_gear: (800, 1500)
+	rpm_range_high_gear: (1100, 1500)
+	rpm_range_power: (1500, 2000)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound.sui"
+
+// 2013 Cummins ISX15 450
+// https://cumminsengines.com/isx15-heavy-duty-truck-2013#overview
+
+}
+}

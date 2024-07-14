@@ -1,0 +1,50 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str11.kenworth.k100e__of.paint_job
+{
+    name:                            "Cowboy"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str11"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str11.tobj"
+    mask_r_color:                   (0.0000, 0.0000, 0.0000)
+    mask_g_color:                   (0.1525, 0, 0)
+    mask_b_color:                   (0.5736, 0.5394, 0.4136)
+    base_color:                     (0.5647, 0.0109, 0.0109)
+    mask_r_locked:                  true
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	suitable_for[]: "1.kenworth.k100e__of.cabin"
+	suitable_for[]: "3.kenworth.k100e__of.cabin"
+	suitable_for[]: "5.kenworth.k100e__of.cabin"
+
+	color_variant[]: (0.0157, 0.0754, 0.1929)
+	color_variant[]: (0.2761, 0.3791, 0.4656)
+	color_variant[]: (0.3695, 0.3695, 0.3695)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	color_variant[]: (0.1359, 0.0050, 0.0050)
+	color_variant[]: (0.2252, 0.2252, 0.2252)
+	color_variant[]: (0.6151, 0.0178, 0.0178)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	color_variant[]: (0.1009, 0.3937, 0.0500)
+	color_variant[]: (0.7309, 0.5968, 0.0554)
+	color_variant[]: (0.0012, 0.0820, 0.0148)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	color_variant[]: (0.9006, 0.1417, 0.0129)
+	color_variant[]: (0.0044, 0.0044, 0.0044)
+	color_variant[]: (0.8932, 0.5435, 0.0000)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	color_variant[]: (0.0188, 0.0400, 0.3233)
+	color_variant[]: (0.4497, 0.4136, 0.2929)
+	color_variant[]: (0.7924, 0.2720, 0.0138)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	color_variant[]: (0.5038, 0.0129, 0.0129)
+	color_variant[]: (0.0089, 0.2327, 0.0775)
+	color_variant[]: (0.1034, 0.0148, 0.0400)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+
+}
+}

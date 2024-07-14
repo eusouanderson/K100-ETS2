@@ -1,0 +1,102 @@
+	wheel_anim: "/vehicle/truck/kenworth.k100e_of/interior/wheel_anim.pma"
+	wheel_updown_anim: "/vehicle/truck/kenworth.k100e_of/interior/wheel_updown_anim.pma"
+	wheel_frontback_anim: "/vehicle/truck/kenworth.k100e_of/interior/wheel_frontback_anim.pma"
+	wheel_updown_anim_default: 0.15
+	wheel_frontback_anim_default: 0.55
+	left_window_anim: "/vehicle/truck/kenworth.k100e_of/interior/win_l.pma"
+	right_window_anim: "/vehicle/truck/kenworth.k100e_of/interior/win_r.pma"
+
+	#switches
+ 
+	flasher_4way_anim: "/vehicle/truck/kenworth.k100e_of/interior/flasher_4way_anim.pma"
+	wiper_anim: "/vehicle/truck/kenworth.k100e_of/interior/wiper_anim.pma"
+	wiper_duration_and_delay[]: (2.0, 2.0)
+	wiper_duration_and_delay[]: (2.0, 0.0)
+	wiper_duration_and_delay[]: (1.33, 0.0)
+	blinker_delay: 0.4
+	blinker_anim: "/vehicle/truck/kenworth.k100e_of/interior/blinker_anim.pma"
+	high_beam_anim: "/vehicle/truck/kenworth.k100e_of/interior/high_beam_anim.pma"
+	light_horn_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/light_horn_stick_anim.pma"
+	wiper_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/wiper_stick_anim.pma"
+	parking_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/parking_stick_anim.pma"
+	differential_lock_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/differential_lock_stick_anim.pma"
+	trailer_air_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/trailer_air_stick_anim.pma"
+	trailer_brake_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/trailer_brake_stick_anim.pma"
+	left_window_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/win_l_stick.pma"
+	right_window_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/win_r_stick.pma"
+	engine_brake_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/s_jake.pma"
+
+	#indicators
+	
+	lights_anim: "/vehicle/truck/kenworth.k100e_of/interior/s_lights.pma"
+	engine_start_anim: "/vehicle/truck/kenworth.k100e_of/interior/s_start.pma"
+	beacon_anim: "/vehicle/truck/kenworth.k100e_of/interior/s_beacon.pma"
+	retarder_stick_anim: "/vehicle/truck/kenworth.k100e_of/interior/s_rtrdr.pma"
+	button_left_blinker: "/vehicle/truck/kenworth.k100e_of/interior/i_left.pma"
+	button_right_blinker: "/vehicle/truck/kenworth.k100e_of/interior/i_right.pma"
+	button_high_beam_lights: "/vehicle/truck/kenworth.k100e_of/interior/i_beam.pma"
+	indicator_low_air_pressure: "/vehicle/truck/kenworth.k100e_of/interior/i_lowair.pma"
+	button_jakebrake: "/vehicle/truck/kenworth.k100e_of/interior/i_jake.pma"
+	button_parking_brake: "/vehicle/truck/kenworth.k100e_of/interior/i_park.pma"
+	indicator_warning: "/vehicle/truck/kenworth.k100e_of/interior/i_eng.pma"
+	indicator_stop: "/vehicle/truck/kenworth.k100e_of/interior/i_bat.pma"
+	indicator_cruise_control: "/vehicle/truck/kenworth.k100e_of/interior/s_cc.pma"
+	indicator_differential_lock: "/vehicle/truck/kenworth.k100e_of/interior/i_diff.pma"
+	indicator_weigh_green: "/vehicle/truck/kenworth.k100e_of/interior/i_wpass_g.pma"
+	indicator_weigh_red: "/vehicle/truck/kenworth.k100e_of/interior/i_wpass_r.pma"
+	
+	#gauges
+	
+	oil_pressure_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_eng_oil_psi.pma"
+	oil_pressure_anim_min: 0
+	oil_pressure_anim_max: 6.9	//6.9bar = 100psi
+	
+	oil_temp_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_eng_oil_temp.pma"
+	oil_temp_anim_min: 37
+	oil_temp_anim_max: 149
+	
+	water_temp_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_water.pma"
+	water_temp_anim_min: 37
+	water_temp_anim_max: 110
+	
+	battery_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_volt.pma"
+	battery_anim_min: 20
+	battery_anim_max: 32
+	
+	diff_temp_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_tran_oil.pma"
+	diff_temp_anim_min: 37
+	diff_temp_anim_max: 149
+	
+	tachometer_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_rpm.pma"
+	tachometer_anim_min: 0
+	tachometer_anim_max: 3000
+	
+	speedometer_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_speed.pma"
+	speedometer_anim_min: 0
+	speedometer_anim_max: 214
+	
+	suspension_load_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_sus_load.pma"
+	suspension_load_anim_min: 0
+	suspension_load_anim_max: 150000
+	
+	air_pressure_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_airtank.pma"
+	air_pressure_anim_min: 0
+	air_pressure_anim_max: 10.34		//10.34bar = 150psi
+	
+	brake_pressure_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_brake_apply.pma"
+	brake_pressure_anim_max: 10.34		//6.9bar = 100psi
+	
+	trailer_air_press_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_trlr_air.pma"
+	air_pressure_anim_min: 0
+	air_pressure_anim_max: 10.34		//10.34bar = 150psi
+	
+	fuel_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_fuel.pma"
+	turbo_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_turbo.pma"
+	consumption_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_consum.pma"
+	consumption_anim_min: 0
+	consumption_anim_max: 100
+	
+	clock_big_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_minute.pma"
+	clock_small_anim: "/vehicle/truck/kenworth.k100e_of/interior/g_hour.pma"
+	clock_small_anim_min: 0
+	clock_small_anim_max: 24

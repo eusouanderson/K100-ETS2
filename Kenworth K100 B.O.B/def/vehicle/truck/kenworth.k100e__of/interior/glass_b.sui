@@ -1,0 +1,15 @@
+glass_pane_data : .kenworthk100.r.pane.r3
+{
+	locator: rglass3
+	size: (0.936, 0.521)
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}
+
+glass_pane_data : .kenworthk100.r.pane.r4
+{
+	locator: rglass4
+	size: (0.936, 0.521)
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}

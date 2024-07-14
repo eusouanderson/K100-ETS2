@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e_of.rooflamps
+{
+	name: "Roof lamps 1"
+	price: 300
+	unlock: 0
+	icon: "k100e_of/lamps2"
+	exterior_model: "/vehicle/truck/upgrade/rooflamps/kenworth.k100e_of/rooflamps02.pmd"
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+	suitable_for[]: "6.kenworth.k100e_of.cabin"
+}
+}

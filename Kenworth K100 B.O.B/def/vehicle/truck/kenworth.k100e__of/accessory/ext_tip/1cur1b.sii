@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : 1cur1b.kenworth.k100e__of.ext_tip
+{
+	name: "5 inch medium"
+	price: 80
+	unlock: 0
+	icon: "k100e_of/tip4"
+	variant: 1cur1b
+	exterior_model: "/vehicle/truck/upgrade/ext_tip/kenworth.k100e_of/ext_tip01.pmd"
+	suitable_for[]: "1.kenworth.k100e__of.ext_rack"
+	suitable_for[]: "4.kenworth.k100e__of.ext_rack"
+}
+}

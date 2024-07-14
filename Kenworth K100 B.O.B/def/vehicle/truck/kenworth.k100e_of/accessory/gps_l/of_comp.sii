@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_int_data : comp.k100e.kenworth.k100e_of.gps_l
+{
+	name: "OF board computer"
+	price: 3500
+	unlock: 0
+	icon: "k100e_of/ofcomp"
+   
+  	interior_model: "/vehicle/truck/upgrade/gps/kenworth.k100e_of/of_gps01.pmd"
+	variant: computer
+}
+}

@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : a.kenworth.k100e__of.w_trim
+{
+	name: "Window trim"
+	price: 50
+	unlock: 0
+	icon: "k100e_of/trim2"
+	variant: a
+	exterior_model: "/vehicle/truck/upgrade/w_trim/kenworth.k100e_of/w_trim01.pmd"
+	suitable_for[]: "1.kenworth.k100e__of.cabin"
+	suitable_for[]: "2.kenworth.k100e__of.cabin"
+}
+}

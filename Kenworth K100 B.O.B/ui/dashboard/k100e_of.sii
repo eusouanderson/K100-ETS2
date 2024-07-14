@@ -1,0 +1,661 @@
+SiiNunit
+{
+ui::window : _nameless.01261fa00 {
+ window_handler: null
+ clip_children: true
+ keep_aspect: none
+ user_string_data: ""
+ fitting: false
+ my_children: 8
+ my_children[0]: _nameless._.kgroundunlit
+ my_children[1]: _nameless._.ackgroundlit
+ my_children[2]: _nameless._.display0
+ my_children[3]: _nameless._.display2
+ my_children[4]: _nameless._.sharedisplay
+ my_children[5]: _nameless._.warning
+ my_children[6]: _nameless._.display3
+ my_children[7]: _nameless._.display1
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: null
+}
+
+ui::text : _nameless._.kgroundunlit {
+ text: "<ret><offset hshift=0 vshift=0><img src=/material/ui/dashboard/k100e_of/display.mat height=600 width=800 right=1 top=0 bottom=0.75>"
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 210
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 10
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.01261fa00
+}
+
+ui::text : _nameless._.ackgroundlit {
+ text: "<ret><offset hshift=0 vshift=0><img src=/material/ui/dashboard/k100e_of/display.mat height=600 width=800 right=1 top=0 bottom=0.75>\r\n\r\n"
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 210
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 20
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.01261fa00
+}
+
+ui::group : _nameless._.display0 {
+ fitting: false
+ my_children: 4
+ my_children[0]: _nameless._.fueldist
+ my_children[1]: _nameless.03303f890
+ my_children[2]: _nameless.0423efbe0
+ my_children[3]: _nameless.05705ad50
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 400
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.01261fa00
+}
+
+ui::text_common : _nameless._.fueldist {
+ value: "9.2|MPG"
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 109
+ coords_r: 553
+ coords_t: 560
+ coords_b: 488
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1170
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display0
+}
+
+ui::text_common : _nameless.03303f890 {
+ value: Economy
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 409
+ coords_r: 712
+ coords_t: 626
+ coords_b: 553
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display0
+}
+
+ui::text : _nameless.0423efbe0 {
+ text: "<color value=FFFFFFFF>\r\n<offset hshift=0 vshift=0><img src=/material/ui/dashboard/k100e_of/display.mat height=125 width=450 top=0.75 left=0.0>"
+ coords_l: 42
+ coords_r: 125
+ coords_t: 618
+ coords_b: 484
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display0
+}
+
+ui::text : _nameless.05705ad50 {
+ text: "<color value=FFFFFFFF>\r\n<offset hshift=0 vshift=50><img src=/material/ui/dashboard/k100e_of/display.mat height=150 width=450 top=0.80 left=0.40>"
+ coords_l: 192
+ coords_r: 433
+ coords_t: 694
+ coords_b: 555
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 6
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display0
+}
+
+ui::group : _nameless._.display2 {
+ fitting: false
+ my_children: 5
+ my_children[0]: _nameless.033044f22
+ my_children[1]: _nameless._.oil.temperature
+ my_children[2]: _nameless._.watertemp
+ my_children[3]: _nameless.0423f6a20
+ my_children[4]: _nameless.0423f8c10
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 300
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.01261fa00
+}
+
+ui::text_common : _nameless.033044f22 {
+ value: "Oil Temp."
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 290
+ coords_r: 576
+ coords_t: 626
+ coords_b: 544
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::text_common : _nameless._.oil.temperature {
+ value: "99|F"
+ look_template: txt.volvovnl.temp_small
+ text: ""
+ coords_l: 511
+ coords_r: 766
+ coords_t: 625
+ coords_b: 545
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1010
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::text_common : _nameless._.watertemp {
+ value: "99|F"
+ look_template: txt.volvovnl.temp_small
+ text: ""
+ coords_l: 510
+ coords_r: 766
+ coords_t: 551
+ coords_b: 480
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1090
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::text_common : _nameless.0423f6a20 {
+ value: "Water Temp."
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 187
+ coords_r: 575
+ coords_t: 552
+ coords_b: 472
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::text_common : _nameless.0423f8c10 {
+ value: "Gauges:"
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 22
+ coords_r: 273
+ coords_t: 626
+ coords_b: 549
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::group : _nameless._.sharedisplay {
+ fitting: false
+ my_children: 5
+ my_children[0]: _nameless._.odometer
+ my_children[1]: _nameless._.outtemp
+ my_children[2]: _nameless._.time
+ my_children[3]: _nameless._.time.1
+ my_children[4]: _nameless._.out.temp
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 950
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.01261fa00
+}
+
+ui::text_common : _nameless._.odometer {
+ value: "123456|mi"
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 393
+ coords_r: 781
+ coords_t: 294
+ coords_b: 214
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1030
+ layer: 2
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::text_common : _nameless._.outtemp {
+ value: "999|F"
+ look_template: txt.volvovnl.temp_norm
+ text: ""
+ coords_l: 170
+ coords_r: 524
+ coords_t: 763
+ coords_b: 672
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1000
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::text_common : _nameless._.time {
+ value: D14
+ look_template: txt.volvovnl.val_num1
+ text: ""
+ coords_l: 205
+ coords_r: 370
+ coords_t: 435
+ coords_b: 339
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1040
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::text_common : _nameless._.time.1 {
+ value: "12:12"
+ look_template: txt.volvovnl.val_num1
+ text: ""
+ coords_l: 490
+ coords_r: 777
+ coords_t: 435
+ coords_b: 314
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1050
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::text : _nameless._.out.temp {
+ text: "<color value=FFFFFFFF>\r\n<offset hshift=0 vshift=50><img src=/material/ui/dashboard/k100e_of/display.mat height=125 width=450 top=0.75 left=0.20>"
+ coords_l: 22
+ coords_r: 149
+ coords_t: 829
+ coords_b: 628
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::group : _nameless._.warning {
+ fitting: false
+ my_children: 4
+ my_children[0]: _nameless.02ac55e61
+ my_children[1]: _nameless.033041401
+ my_children[2]: _nameless.033041f10
+ my_children[3]: _nameless.057064650
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 900
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.01261fa00
+}
+
+ui::text_common : _nameless.02ac55e61 {
+ value: "SERVICE!\r\n"
+ look_template: txt.volvovnl.val_num1
+ text: ""
+ coords_l: 238
+ coords_r: 609
+ coords_t: 630
+ coords_b: 528
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 4
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.warning
+}
+
+ui::text_common : _nameless.033041401 {
+ value: "Visit\r\n"
+ look_template: txt.volvovnl.val_num1
+ text: ""
+ coords_l: 246
+ coords_r: 522
+ coords_t: 746
+ coords_b: 640
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 4
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.warning
+}
+
+ui::text : _nameless.033041f10 {
+ text: "<color value=FFFFFFFF>\r\n<offset hshift=0 vshift=50><img src=/material/ui/dashboard/k100e_of/display.mat height=1000 width=1000 top=0.0 left=0.0>"
+ coords_l: 0
+ coords_r: 784
+ coords_t: 850
+ coords_b: 621
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 3
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.warning
+}
+
+ui::text : _nameless.057064650 {
+ text: "<color value=FFFFFFFF>\r\n<offset hshift=-280 vshift=0><img src=/material/ui/dashboard/k100e_of/display.mat height=150 width=450 top=0.75 left=0.25>"
+ coords_l: 14
+ coords_r: 186
+ coords_t: 720
+ coords_b: 577
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 7
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.warning
+}
+
+ui::group : _nameless._.display3 {
+ fitting: false
+ my_children: 5
+ my_children[0]: _nameless.0333d87b0
+ my_children[1]: _nameless._.fuel
+ my_children[2]: _nameless._.fuel.dist
+ my_children[3]: _nameless.0423fd281
+ my_children[4]: _nameless.0570564f0
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 100
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.01261fa00
+}
+
+ui::text_common : _nameless.0333d87b0 {
+ value: Empty
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 434
+ coords_r: 633
+ coords_t: 626
+ coords_b: 552
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display3
+}
+
+ui::text_common : _nameless._.fuel {
+ value: "99|gal"
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 435
+ coords_r: 695
+ coords_t: 560
+ coords_b: 481
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1060
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display3
+}
+
+ui::text_common : _nameless._.fuel.dist {
+ value: "9999|km"
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 104
+ coords_r: 435
+ coords_t: 560
+ coords_b: 481
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1080
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display3
+}
+
+ui::text : _nameless.0423fd281 {
+ text: "<color value=FFFFFFFF>\r\n<offset hshift=0 vshift=0><img src=/material/ui/dashboard/k100e_of/display.mat height=125 width=450 top=0.75 left=0.0>"
+ coords_l: 42
+ coords_r: 124
+ coords_t: 618
+ coords_b: 481
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display3
+}
+
+ui::text : _nameless.0570564f0 {
+ text: "<color value=FFFFFFFF>\r\n<offset hshift=0 vshift=50><img src=/material/ui/dashboard/k100e_of/display.mat height=150 width=450 top=0.80 left=0.40>"
+ coords_l: 192
+ coords_r: 437
+ coords_t: 694
+ coords_b: 541
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 5
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display3
+}
+
+ui::group : _nameless._.display1 {
+ fitting: false
+ my_children: 2
+ my_children[0]: _nameless.03302d780
+ my_children[1]: _nameless._.cruise.control
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 200
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.01261fa00
+}
+
+ui::text_common : _nameless.03302d780 {
+ value: "Cruise control:"
+ look_template: txt.volvovnl.val_num
+ text: ""
+ coords_l: 9
+ coords_r: 462
+ coords_t: 626
+ coords_b: 548
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display1
+}
+
+ui::text_common : _nameless._.cruise.control {
+ value: "150|mil/h"
+ look_template: txt.volvovnl.val_num1
+ text: ""
+ coords_l: 410
+ coords_r: 767
+ coords_t: 570
+ coords_b: 474
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1100
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display1
+}
+
+}

@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 4_4.kenworth.k100e__of.fender
+
+{
+	name: "fender 3 double"
+	price: 1260
+	unlock: 0
+	icon: "k100e_of/fenm2"
+	variant: 4_4
+	exterior_model: "/vehicle/truck/upgrade/fender/kenworth.k100e_of/fender02.pmd"
+	suitable_for[]: "6a.kenworth.k100e__of.chassis"
+	suitable_for[]: "6b.kenworth.k100e__of.chassis"
+}
+}

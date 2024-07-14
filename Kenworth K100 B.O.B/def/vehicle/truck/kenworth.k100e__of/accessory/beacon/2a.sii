@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : 2a.kenworth.k100e__of.beacon
+{
+	name: "Single Radiant"
+	price: 500
+	icon: "k100e_of/beacon"
+	exterior_model: "/vehicle/truck/upgrade/beacon/kenworth.k100e_of/beacon03.pmd"
+	suitable_for[]: "3.kenworth.k100e__of.cabin"
+	suitable_for[]: "4.kenworth.k100e__of.cabin"
+}
+}

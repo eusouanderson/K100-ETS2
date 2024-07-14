@@ -1,0 +1,36 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str43b.kenworth.k100e_of.paint_job
+{
+    name:                            "Laser"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str43"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str43b.tobj"
+    mask_g_color:                   (0.3328, 0.3224, 0.2657)
+    mask_b_color:                   (0.0572, 0.0647, 0.0383)
+    base_color:                     (0.0028, 0.0028, 0.0028)
+    mask_b_locked:                  false
+    mask_g_locked:                  false
+    mask_r_locked:                  true
+    base_color_locked:              false
+	suitable_for[]: "3.kenworth.k100e_of.cabin"
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+	suitable_for[]: "5.kenworth.k100e_of.cabin"
+	suitable_for[]: "6.kenworth.k100e_of.cabin"
+	
+	color_variant[]: (0.6526, 0.2559, 0.0050)
+	color_variant[]: (0.3189, 0.0121, 0.0121)
+	color_variant[]: (0.5150, 0.0138, 0.0138)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	
+	color_variant[]: (0, 0.1, 0.4275)
+	color_variant[]: (0, 0.1340, 0.5692)
+	color_variant[]: (0.8, 0.8, 0.8)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+
+
+}
+}

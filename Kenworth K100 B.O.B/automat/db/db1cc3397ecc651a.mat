@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/kenworth.k100e_of/70.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/kenworth.k100e_of/71.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.349356 , 0.347935 , 0.318585 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.176109 , 0.176109 , 0.176109 }
+}

@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : 2e.kenworth.k100e__of.t_cover
+
+{
+	name: "Tank covers - blue"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/tcov5"
+	exterior_model: "/vehicle/truck/upgrade/t_cover/kenworth.k100e_of/t_cover2a.pmd"
+	look: 5
+	suitable_for[]: "2a.kenworth.k100e__of.chassis"
+}
+}

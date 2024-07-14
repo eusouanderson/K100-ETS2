@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 1.kenworth.k100e_of.ladder
+{
+	name: "Original ladder"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/ladder3"
+	variant: 1
+	exterior_model: "/vehicle/truck/upgrade/ladder/kenworth.k100e_of/ladder01.pmd"
+	coll: "/vehicle/truck/upgrade/ladder/kenworth.k100e_of/ladder01.pmc"
+}
+}

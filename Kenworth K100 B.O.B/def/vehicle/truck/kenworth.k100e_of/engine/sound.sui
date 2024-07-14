@@ -1,0 +1,6 @@
+# Configuration of the engine sounds for the specific truck.
+	sounds:4
+	sounds[]: "engine|/def/vehicle/truck/kenworth.k100e_of/engine/sound_engine.soundref"
+	sounds[]: "exhaust|/def/vehicle/truck/kenworth.k100e_of/engine/sound_exhaust.soundref"
+	sounds[]: "start_bad|/def/vehicle/truck/kenworth.k100e_of/engine/sound_start_bad.soundref"
+	sounds[]: "turbo|/def/vehicle/truck/kenworth.k100e_of/engine/sound_turbo.soundref"

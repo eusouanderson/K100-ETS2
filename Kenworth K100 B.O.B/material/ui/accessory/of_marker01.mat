@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "of_marker01.tobj"
+	texture_name : "texture"
+}

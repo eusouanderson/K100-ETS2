@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 3f.kenworth.k100e_of.wood
+{
+	name: "6"
+	price: 50
+	unlock: 0
+	icon: "k100e_of/wood6"
+	variant: 3
+	look: 6
+	interior_model: "/vehicle/truck/upgrade/wood/kenworth.k100e_of/wood01.pmd"
+	suitable_for[]: "3.kenworth.k100e_of.cabin"
+	suitable_for[]: "5.kenworth.k100e_of.cabin"
+}
+}

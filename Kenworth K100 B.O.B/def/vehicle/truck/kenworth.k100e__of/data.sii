@@ -1,0 +1,50 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.kenworth.k100e__of	
+{
+	info[]: " Kenworth "
+	info[]: "@@K100E@@"
+
+	behind_camera: camera.behind.k100of
+	interior_camera: camera.interior.kenworth.k100of
+	interior_camera_oculus: camera.interior.kenworth.k100of.oculus
+	bumper_camera: camera.bumper.basic
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+
+	fallback[]: "cabin|1.sii"
+	fallback[]: "chassis|2a.sii"
+	fallback[]: "engine|isx12_425.sii"
+	fallback[]: "head_light|standard.sii"
+	fallback[]: "interior|1_1.sii"
+	fallback[]: "paint_job|color1.sii"
+	fallback[]: "transmission|13_speed2.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_01.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_01_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_01.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_01_steel.sii"
+	fallback[]: "accessory/steering_w|1.sii"
+	fallback[]: "accessory/inlet/a1cap1a.sii"
+	fallback[]: "accessory/air_intake/1a.sii"
+	fallback[]: "accessory/ext_tip/1cur1b.sii"
+	fallback[]: "accessory/ext_rack/1.sii"
+	fallback[]: "accessory/bumper/1.sii"
+	fallback[]: "accessory/fender/2b.sii"
+	fallback[]: "accessory/ladder/1.sii"
+	fallback[]: "accessory/mirror/1.sii"
+	fallback[]: "accessory/mudflap/1.sii"
+	fallback[]: "accessory/rearbumper/1.sii"
+	fallback[]: "accessory/trlr_cables/1.sii"
+	fallback[]: "accessory/wood/1.sii"
+
+}
+}

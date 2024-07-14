@@ -1,0 +1,40 @@
+﻿SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "dashboard" for "/ui/template/dashboard.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+#
+# Volvo VNL
+#
+ui::text_template : txt.volvovnl.text0 {
+	name: "zDB  Volvo VNL Plain text small"
+	text: "<color value=ff000000><align hstyle=right><font face=/font/big.font xscale=3.8 yscale=3.8>%0</font></align>"
+}
+ui::text_template : txt.volvovnl.text1 {
+	name: "zDB  Volvo VNL Plain text big"
+	text: "<color value=ff000000><align hstyle=right><font face=/font/big.font xscale=5 yscale=5>%0</font></align>"
+}
+ui::text_template : txt.volvovnl.val_num {
+	name: "zDB  Volvo VNL Numbers with units small"
+	text: "<color value=ff000000><align hstyle=right><font face=/font/big.font xscale=3.8 yscale=3.8>%0 %1</font></align>"
+}
+ui::text_template : txt.volvovnl.val_num1 {
+	name: "zDB  Volvo VNL Numbers with units big"
+	text: "<color value=ff000000><align hstyle=right><font face=/font/big.font xscale=5 yscale=5>%0 %1</font></align>"
+}
+
+ui::text_template : txt.volvovnl.temp_norm {
+	name: "zDB  Volvo VNL Temperature"
+	text: "<align hstyle=right><color value=ff000000><font face=/font/big.font xscale=4.5 yscale=5>%0 °%1</font></align>"
+}
+
+ui::text_template : txt.volvovnl.temp_small {
+	name: "zDB  Volvo VNL Temperature small"
+	text: "<align hstyle=right><color value=ff000000><font face=/font/big.font xscale=3.8 yscale=3.8>%0 °%1</font></align>"
+}
+}

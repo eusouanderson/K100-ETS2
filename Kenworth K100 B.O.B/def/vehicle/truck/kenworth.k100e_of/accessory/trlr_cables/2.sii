@@ -1,0 +1,23 @@
+SiiNunit
+{
+accessory_addon_trailer_cables_data : 2.kenworth.k100e_of.trlr_cables
+{
+	exterior_model: "/vehicle/truck/upgrade/trlr_cables/kenworth.k100e_of/trlr_cables01.pmd"
+	suitable_for[]: "3a.kenworth.k100e_of.chassis"
+	suitable_for[]: "3b.kenworth.k100e_of.chassis"
+	suitable_for[]: "4a.kenworth.k100e_of.chassis"
+	suitable_for[]: "4b.kenworth.k100e_of.chassis"
+	suitable_for[]: "5a.kenworth.k100e_of.chassis"
+	suitable_for[]: "5b.kenworth.k100e_of.chassis"
+	suitable_for[]: "6a.kenworth.k100e_of.chassis"
+	suitable_for[]: "6b.kenworth.k100e_of.chassis"
+	suitable_for[]: "7a.kenworth.k100e_of.chassis"
+	suitable_for[]: "7b.kenworth.k100e_of.chassis"
+
+@include "/def/vehicle/truck/common_trlr_cables.sui"
+
+}
+
+@include "/def/vehicle/truck/common_trlr_cables_data.sui"
+
+}

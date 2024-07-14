@@ -1,0 +1,28 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str41.kenworth.k100e_of.paint_job
+{
+    name:                            "Gettysburg"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str41"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str41.tobj"
+    mask_r_color:                   (0.0302, 0.0582, 0.1346)
+    mask_g_color:                   (0.0302, 0.0582, 0.1346)
+    mask_b_color:                   (0.0023, 0.0090, 0.0315)
+    base_color:                     (0.5384, 0.2199, 0)
+    mask_r_locked:                  false
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	
+	color_variant[]: (0.5384, 0.2199, 0.0000)
+	color_variant[]: (0.3937, 0.0199, 0.0199)
+	color_variant[]: (0.6977, 0.6977, 0.6977)
+	color_variant[]: (0.0178, 0.0178, 0.0178)
+
+
+}
+}

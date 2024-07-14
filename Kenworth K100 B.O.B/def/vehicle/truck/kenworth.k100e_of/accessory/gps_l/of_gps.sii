@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_int_data : gps.k100e.kenworth.k100e_of.gps_l
+{
+	name: "OF Navigator"
+	price: 1700
+	unlock: 0
+	icon: "k100e_of/ofnav"
+   
+  	interior_model: "/vehicle/truck/upgrade/gps/kenworth.k100e_of/of_gps01.pmd"
+	variant: gps
+}
+}

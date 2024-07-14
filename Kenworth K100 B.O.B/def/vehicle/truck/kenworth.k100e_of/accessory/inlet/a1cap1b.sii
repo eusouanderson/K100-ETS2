@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : a1cap1b.kenworth.k100e_of.inlet
+{
+	name: "Cap 1 shiny"
+	price: 55
+	unlock: 0
+	icon: "k100e_of/inlet2"
+	exterior_model: "/vehicle/truck/upgrade/inlet/kenworth.k100e_of/inlet01.pmd"
+	variant: 1a
+	look: 2
+	suitable_for[]: "1a.kenworth.k100e_of.air_intake"
+}
+}

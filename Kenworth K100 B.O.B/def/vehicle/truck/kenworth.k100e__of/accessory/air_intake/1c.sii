@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 1c.kenworth.k100e__of.air_intake
+{
+	name: "Long"
+	price: 120
+	unlock: 0
+	icon: "k100e_of/intake3"
+	variant: 1c
+	exterior_model: "/vehicle/truck/upgrade/air_intake/kenworth.k100e_of/air_intake01.pmd"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e__of/accessory/inlet/c1cap1a.sii"
+	suitable_for[]: "1.kenworth.k100e__of.ext_rack"
+	suitable_for[]: "4.kenworth.k100e__of.ext_rack"
+}
+}

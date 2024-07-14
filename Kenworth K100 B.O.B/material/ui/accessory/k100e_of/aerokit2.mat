@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "aerokit2.tobj"
+	texture_name : "texture"
+}

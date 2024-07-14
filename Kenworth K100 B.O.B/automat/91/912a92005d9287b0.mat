@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/vehicle/truck/kenworth.k100e_of/plate1.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.336037 , 0.336037 , 0.336037 }
+	reflection : 1
+	shininess : 15
+	specular : { 0 , 0 , 0 }
+}

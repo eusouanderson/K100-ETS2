@@ -1,0 +1,40 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str35.kenworth.k100e_of.paint_job
+{
+    name:                            "Concord"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str35"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str35.tobj"
+    mask_r_color:                   (0.7515, 0.0152, 0.0152)
+    mask_g_color:                   (0.7515, 0.0152, 0.0152)
+    mask_b_color:                   (0.7060, 0.2591, 0.0174)
+    base_color:                     (0.2773, 0.0056, 0.0056)
+    mask_r_locked:                  false
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+	suitable_for[]: "3.kenworth.k100e_of.cabin"
+	
+	color_variant[]: (0.4927, 0.4444, 0.3233)
+	color_variant[]: (0.0246, 0.0554, 0.0797)
+	color_variant[]: (0.2971, 0.2289, 0.0865)
+	color_variant[]: (0.2971, 0.2289, 0.0865)
+	
+	color_variant[]: (0.4550, 0.3278, 0.0797)
+	color_variant[]: (0.0188, 0.1218, 0.0572)
+	color_variant[]: (0.7924, 0.7924, 0.7924)
+	color_variant[]: (0.7924, 0.7924, 0.7924)
+	
+	color_variant[]: (0.5848, 0.5094, 0.3414)
+	color_variant[]: (0.5435, 0.0340, 0.0340)
+	color_variant[]: (0.0211, 0.2069, 0.4927)
+	color_variant[]: (0.0211, 0.2069, 0.4927)
+
+
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e__of.rearbumper
+{
+	name: "Tail lights (USA)"
+	price: 400
+	unlock: 0
+	icon: "k100e_of/taillight2"
+	exterior_model: "/vehicle/truck/upgrade/r_bumper/kenworth.k100e_of/r_bumper02.pmd"
+	variant: 1
+	defaults[]: "/def/vehicle/truck/kenworth.k100e__of/accessory/mudflap/1a.sii"
+}
+}

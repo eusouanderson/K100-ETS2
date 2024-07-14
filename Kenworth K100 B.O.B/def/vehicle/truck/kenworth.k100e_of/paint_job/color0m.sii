@@ -1,0 +1,32 @@
+SiiNunit
+{
+accessory_paint_job_data : color0m.kenworth.k100e_of.paint_job
+{
+	name: "@@custom_metallic@@"
+	price: 3900
+	unlock: 0
+	icon: "color_custom_metallic_icon"
+	base_color : (0.3294, 0.0271, 0.0271)
+	stock: false
+
+	flipflake : true
+
+	flip_color : (0.0875, 0, 0)
+	flake_color: (0.5647, 0.3189, 0.3189)
+
+	flip_strength : 0.93
+	flake_uvscale : 20
+	flake_density : 0.6
+	flake_shininess : 30
+	flake_clearcoat_rolloff : 5
+
+	flake_noise: "/material/custom/flake_noise.tobj"
+
+	base_color_locked: false
+	flip_color_locked: false
+	flake_color_locked: false
+
+	alternate_uvset: false
+
+}
+}

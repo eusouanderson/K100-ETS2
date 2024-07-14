@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : 4.kenworth.k100e_of.sunshield
+{
+	name: "Original visor 2"
+	price: 800
+	unlock: 0
+	icon: "k100e_of/visor3"
+	exterior_model: "/vehicle/truck/upgrade/sunshield/kenworth.k100e_of/visor01.pmd"
+	interior_model: "/vehicle/truck/upgrade/sunshield/kenworth.k100e_of/visor01int.pmd"
+	variant: 2
+	look: 2
+
+
+}
+}

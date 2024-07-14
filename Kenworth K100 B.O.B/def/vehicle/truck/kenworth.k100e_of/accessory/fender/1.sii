@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 1.kenworth.k100e_of.fender
+
+{
+	name: "Quarter fender"
+	price: 120
+	unlock: 0
+	icon: "k100e_of/fenq"
+	exterior_model: "/vehicle/truck/upgrade/fender/kenworth.k100e_of/fender03.pmd"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/f_mudflap/2.sii"
+}
+}

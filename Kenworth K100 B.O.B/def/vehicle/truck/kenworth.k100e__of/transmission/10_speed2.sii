@@ -1,0 +1,32 @@
+SiiNunit
+{
+accessory_transmission_data : 10_speed2.kenworth.k100e__of.transmission
+{
+	name: "10 Speed (slow)"
+	price: 5750
+	unlock: 0
+	icon: "k100e_of/tran_eaton"
+
+	# UltraShift PLUS LAS 10B
+	# Differential Ratio: 2.64, 2.85, 2.93, 3.08, 3.25, 3.36, 3.40?, 3.42, 3.55, 3.58(single) 3.70, 3.73?, 3.78, 3.91, 4.10
+
+	differential_ratio: 3.08
+	
+	# reverse gear
+	ratios_reverse[0]: -17.34
+	ratios_reverse[1]: -12.83
+
+	# forward gears
+	ratios_forward[0]: 14.84
+	ratios_forward[1]: 10.98
+	ratios_forward[2]: 8.13
+	ratios_forward[3]: 6.02
+	ratios_forward[4]: 4.46
+	ratios_forward[5]: 3.3
+	ratios_forward[6]: 2.47
+	ratios_forward[7]: 1.83
+	ratios_forward[8]: 1.35
+	ratios_forward[9]: 1.0
+@include "sound.sui"
+}
+}

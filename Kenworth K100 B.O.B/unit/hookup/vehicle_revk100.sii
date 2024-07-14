@@ -1,0 +1,15 @@
+SiiNunit
+{
+flare_vehicle: flare.vehicle.revk100
+{
+	dir_type: narrow
+	flare_inner_angle: 30
+	light_type: reverse
+	
+@include "vehicle_revk100.sui"
+
+	model: "/model/flare/uniform_cold_white.pmd"
+	default_scale: 0.97
+	scale_factor: 6
+}
+}

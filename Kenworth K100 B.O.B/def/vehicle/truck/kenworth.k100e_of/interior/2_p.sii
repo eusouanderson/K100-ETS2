@@ -1,0 +1,44 @@
+SiiNunit
+{
+accessory_interior_data	:2_p.kenworth.k100e_of.interior
+{
+	name: "Pink VIT"
+	price: 15000
+	unlock: 0
+	icon: "k100e_of/int_p"
+	model: "/vehicle/truck/kenworth.k100e_of/interior/cabin2.pmd"
+	animated_model: "/vehicle/truck/kenworth.k100e_of/interior/anim_model.pmd"
+	collision: "/vehicle/truck/kenworth.k100e_of/interior/cabin2.pmc"
+	look: p
+	variant: 1
+
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+
+
+	ext_model: "/vehicle/truck/kenworth.k100e_of/ext_int/ext_int.pmd"
+	ext_variant: cab2
+	ext_look: p
+
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/steering_w/3.sii"
+
+@include "animations.sui"
+@include "sound.sui"
+@include "computers.sui"
+
+
+	glass_panes[]: .kenworthk100.r.pane.1a
+	glass_panes[]: .kenworthk100.r.pane.2a
+	glass_panes[]: .kenworthk100.r.pane.3a
+	glass_panes[]: .kenworthk100.r.pane.4a
+	glass_panes[]: .kenworthk100.r.pane.1b
+	glass_panes[]: .kenworthk100.r.pane.2b
+	glass_panes[]: .kenworthk100.r.pane.3b
+	glass_panes[]: .kenworthk100.r.pane.4b
+
+
+@include "seat.sui"
+
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+}

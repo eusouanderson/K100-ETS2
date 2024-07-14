@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : 1.kenworth.k100e__of.ladder
+{
+	name: "Original ladder"
+	icon: "k100e_of/ladder3"
+	variant: 4
+	exterior_model: "/vehicle/truck/upgrade/ladder/kenworth.k100e_of/ladder01.pmd"
+	coll: "/vehicle/truck/upgrade/ladder/kenworth.k100e_of/ladder01.pmc"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 5.kenworth.k100e_of.aero_kit
+{
+	name: "5"
+	price: 1980
+	unlock: 0
+	icon: "k100e_of/aerokit5"
+	exterior_model: "/vehicle/truck/upgrade/aero_kit/kenworth.k100e_of/aero_kit03.pmd"
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+}
+}

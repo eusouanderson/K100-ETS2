@@ -1,0 +1,35 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str20b.kenworth.k100e__of.paint_job
+{
+    name:                            "Virginian"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str20"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str20b.tobj"
+    mask_r_color:                   (0.7983, 0.0123, 0.0123)
+    mask_g_color:                   (0.4510, 0.0435, 0.0435)
+    mask_b_color:                   (0.74, 0.74, 0.74)
+    base_color:                     (0.2158, 0.0026, 0.0026)
+    mask_r_locked:                  false
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	suitable_for[]: "2.kenworth.k100e__of.cabin"
+	suitable_for[]: "4.kenworth.k100e__of.cabin"
+	suitable_for[]: "6.kenworth.k100e__of.cabin"
+
+	color_variant[]: (0.7309, 0.4818, 0.1274)
+	color_variant[]: (0.1191, 0.1191, 0.1191)
+	color_variant[]: (0.3323, 0.3323, 0.3323)
+	color_variant[]: (0.0298, 0.0298, 0.0298)
+
+	color_variant[]: (0.5908, 0.4927, 0.2069)
+	color_variant[]: (0.0246, 0.0797, 0.0465)
+	color_variant[]: (0.7043, 0.7043, 0.7043)
+	color_variant[]: (0.0246, 0.0797, 0.0465)
+
+}
+}

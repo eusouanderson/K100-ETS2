@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : 3d.kenworth.k100e__of.t_cover
+
+{
+	name: "Tank covers - green"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/tcov4"
+	exterior_model: "/vehicle/truck/upgrade/t_cover/kenworth.k100e_of/t_cover3a.pmd"
+	look: 4
+	suitable_for[]: "3a.kenworth.k100e__of.chassis"
+}
+}

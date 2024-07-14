@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e_of.ladder
+{
+	name: "Aero ladder"
+	price: 560
+	unlock: 0
+	icon: "k100e_of/ladder2"
+	variant: 2
+	exterior_model: "/vehicle/truck/upgrade/ladder/kenworth.k100e_of/ladder01.pmd"
+	coll: "/vehicle/truck/upgrade/ladder/kenworth.k100e_of/ladder01.pmc"
+}
+}

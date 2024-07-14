@@ -1,0 +1,40 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str5d.kenworth.k100e_of.paint_job
+{
+    name:                            "Cascade"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str5"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str5d.tobj"
+    mask_r_color:                   (0.0354, 0.0888, 0.1663)
+    mask_g_color: 					(0.6847, 0.6847, 0.6847)
+    mask_b_color:					(0.1538, 0.2680, 0.3278)
+    base_color : 					(0.0074, 0.0199, 0.1034)
+    mask_r_locked:                  false
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+	suitable_for[]: "6.kenworth.k100e_of.cabin"
+	
+	color_variant[]: (0.1895, 0.1895, 0.1895)
+	color_variant[]: (0.1538, 0.0284, 0.0432)
+	color_variant[]: (0.2289, 0.1569, 0.0432)
+	color_variant[]: (0.3057, 0.3057, 0.3057)
+	
+	color_variant[]: (0.4036, 0.4036, 0.4036)
+	color_variant[]: (0.0030, 0.0030, 0.0030)
+	color_variant[]: (0.1600, 0.1600, 0.1600)
+	color_variant[]: (0.3986, 0.0157, 0.0157)
+	
+	color_variant[]: (0.2069, 0.0050, 0.0167)
+	color_variant[]: (0.1929, 0.1447, 0.1009)
+	color_variant[]: (0.2069, 0.0050, 0.0167)
+	color_variant[]: (0.4086, 0.4086, 0.4086)
+
+
+}
+}

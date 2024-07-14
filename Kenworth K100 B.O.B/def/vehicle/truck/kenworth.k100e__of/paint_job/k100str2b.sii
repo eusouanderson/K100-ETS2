@@ -1,0 +1,37 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str2b.kenworth.k100e__of.paint_job
+{
+    name:                            "Express"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str2"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str2b.tobj"
+    mask_g_color:                   (0.001, 0.001, 0.001)
+    mask_b_color:                   (0.2560, 0.0083, 0.0083)
+    base_color:                     (0.65, 0.65, 0.65)
+    mask_r_locked:                  true
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	suitable_for[]: "2.kenworth.k100e__of.cabin"
+	suitable_for[]: "4.kenworth.k100e__of.cabin"
+
+	color_variant[]: (0.2559, 0.2559, 0.2559)
+	color_variant[]: (0.0104, 0.0517, 0.1569)
+	color_variant[]: (0.2971, 0.2971, 0.2971)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+
+	color_variant[]: (0.4818, 0.3839, 0.1507)
+	color_variant[]: (0.0129, 0.0129, 0.0129)
+	color_variant[]: (0.1895, 0.0610, 0.1600)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	
+	color_variant[]: (0.6151, 0.6151, 0.6151)
+	color_variant[]: (0.5094, 0.0432, 0.0432)
+	color_variant[]: (0.0936, 0.0271, 0.0271)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+}
+}

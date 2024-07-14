@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color6.kenworth.k100e__of.paint_job
+{
+	name: "Brown"
+	price: 700
+	unlock: 0
+	base_color : (0.2158, 0.0505, 0.0022)
+	base_color_locked: true
+	stock: true
+}
+}

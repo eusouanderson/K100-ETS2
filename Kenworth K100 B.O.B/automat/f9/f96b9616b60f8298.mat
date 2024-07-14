@@ -1,0 +1,11 @@
+material : "eut2.dif.lum.lvcol.decal.over.rfx" {
+	texture[0] : "/vehicle/truck/kenworth.k100e_of/interior/gauges.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : { 2000 , 10 }
+	diffuse : { 1 , 1 , 1 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 30
+	specular : { 0 , 0 , 0 }
+}

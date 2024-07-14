@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e_of.grille
+{
+	name: "3 bars"
+	price: 600
+	unlock: 0
+	icon: "k100e_of/grille2"
+	variant: 2
+	exterior_model: "/vehicle/truck/upgrade/grille/kenworth.k100e_of/grille01.pmd"
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+	suitable_for[]: "3.kenworth.k100e_of.cabin"
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+}
+}

@@ -1,0 +1,24 @@
+SiiNunit
+{
+accessory_addon_data : 2flat2b.kenworth.k100e__of.ext_tip
+{
+	name: "7 inch medium flat"
+	price: 460
+	unlock: 0
+	icon: "k100e_of/tip9"
+	variant: 2flat2b
+	exterior_model: "/vehicle/truck/upgrade/ext_tip/kenworth.k100e_of/ext_tip01.pmd"
+	suitable_for[]: "2.kenworth.k100e__of.ext_rack"
+	suitable_for[]: "3.kenworth.k100e__of.ext_rack"
+	suitable_for[]: "5.kenworth.k100e__of.ext_rack"
+	suitable_for[]: "6.kenworth.k100e__of.ext_rack"
+	conflict_with[]: "a2cap2a.kenworth.k100e__of.inlet"
+	conflict_with[]: "b2cap2a.kenworth.k100e__of.inlet"
+	conflict_with[]: "a3cap2a.kenworth.k100e__of.inlet"
+	conflict_with[]: "b3cap2a.kenworth.k100e__of.inlet"
+	conflict_with[]: "a2cap2b.kenworth.k100e__of.inlet"
+	conflict_with[]: "b2cap2b.kenworth.k100e__of.inlet"
+	conflict_with[]: "a3cap2b.kenworth.k100e__of.inlet"
+	conflict_with[]: "b3cap2b.kenworth.k100e__of.inlet"
+}
+}

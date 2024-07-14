@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : 1.kenworth.k100e__of.shield
+{
+	name: "Shield"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/shield1"
+	variant: 1
+	exterior_model: "/vehicle/truck/upgrade/shield/kenworth.k100e_of/shield01.pmd"
+	suitable_for[]: "1.kenworth.k100e__of.ext_rack"
+	suitable_for[]: "4.kenworth.k100e__of.ext_rack"
+}
+}

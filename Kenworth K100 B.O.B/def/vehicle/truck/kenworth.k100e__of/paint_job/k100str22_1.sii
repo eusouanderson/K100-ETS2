@@ -1,0 +1,35 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str22_1.kenworth.k100e__of.paint_job
+{
+    name:                            "Salem"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str22"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str22_1.tobj"
+    mask_r_color:                   (0.0044, 0.0432, 0.0960)
+    mask_g_color:                   (0.1861, 0.0167, 0.0400)
+    mask_b_color:                   (0.0732, 0.2520, 0.3506)
+    base_color:                     (0.5340, 0.3559, 0.1288)
+    mask_r_locked:                  false
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	suitable_for[]: "1.kenworth.k100e__of.cabin"
+	suitable_for[]: "2.kenworth.k100e__of.cabin"
+	suitable_for[]: "3.kenworth.k100e__of.cabin"
+	suitable_for[]: "4.kenworth.k100e__of.cabin"
+
+	color_variant[]: (0.7716, 0.7716, 0.7716)
+	color_variant[]: (0.3506, 0.2720, 0.1477)
+	color_variant[]: (0.5552, 0.0271, 0.0271)
+	color_variant[]: (0.0068, 0.0068, 0.0068)
+
+	color_variant[]: (0.6029, 0.4550, 0.1009)
+	color_variant[]: (0.1417, 0.3278, 0.0432)
+	color_variant[]: (0.0000, 0.2069, 0.0096)
+	color_variant[]: (0.0000, 0.0775, 0.0340)
+}
+}

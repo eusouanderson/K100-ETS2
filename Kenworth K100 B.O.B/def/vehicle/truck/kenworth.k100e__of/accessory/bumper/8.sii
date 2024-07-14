@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 8.kenworth.k100e__of.bumper
+{
+	name: "Bullbar 3"
+	price: 1770
+	unlock: 0
+	icon: "k100e_of/bump8"
+	variant: 1
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth.k100e_of/bumper07.pmd"
+	coll: "/vehicle/truck/upgrade/bumper/kenworth.k100e_of/bumper07.pmc"
+}
+}

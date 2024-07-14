@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.oclu.rfx" {
+	texture[0] : "/vehicle/truck/kenworth.k100e_of/ext_int/fabric_clr.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/kenworth.k100e_of/ext_int/fabric_ao.tobj"
+	texture_name[1] : "texture_oclu"
+	add_ambient : 0
+	diffuse : { 0.117058 , 0.117058 , 0.117058 }
+	reflection : 0
+	shininess : 5
+	specular : { 0.127507 , 0.127507 , 0.127507 }
+}

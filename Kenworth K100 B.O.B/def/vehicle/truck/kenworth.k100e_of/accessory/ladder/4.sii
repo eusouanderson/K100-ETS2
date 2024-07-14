@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : 4.kenworth.k100e_of.ladder
+{
+	name: "Europe ladder"
+	price: 400
+	unlock: 0
+	icon: "k100e_of/ladder4"
+	exterior_model: "/vehicle/truck/upgrade/ladder/kenworth.k100e_of/ladder02.pmd"
+}
+}

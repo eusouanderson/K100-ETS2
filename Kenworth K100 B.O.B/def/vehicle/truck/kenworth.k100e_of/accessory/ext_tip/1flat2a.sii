@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 1flat2a.kenworth.k100e_of.ext_tip
+{
+	name: "7 inch short flat"
+	price: 210
+	unlock: 0
+	icon: "k100e_of/tip7"
+	variant: 1flat2a
+	exterior_model: "/vehicle/truck/upgrade/ext_tip/kenworth.k100e_of/ext_tip01.pmd"
+	suitable_for[]: "1.kenworth.k100e_of.ext_rack"
+}
+}

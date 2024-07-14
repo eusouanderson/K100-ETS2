@@ -1,0 +1,36 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str48.kenworth.k100e_of.paint_job
+{
+    name:                            "Nevada"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str48"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str48.tobj"
+    mask_r_color:                   (0.4834, 0.0306, 0.0306)
+    mask_g_color:                   (0.8852, 0.2831, 0.0243)
+    mask_b_color:                   (0.25, 0.2343, 0.1631)
+    base_color:                     (0.3572, 0, 0)
+    mask_r_locked:                  false
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+	suitable_for[]: "3.kenworth.k100e_of.cabin"
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+
+	color_variant[]: (0.8565, 0.8565, 0.8565)
+	color_variant[]: (0.4036, 0.4036, 0.4036)
+	color_variant[]: (0.0050, 0.0591, 0.2803)
+	color_variant[]: (0.1794, 0.0650, 0.2069)
+	
+	color_variant[]: (0.3743, 0.2761, 0.0630)
+	color_variant[]: (0.0936, 0.1895, 0.1538)
+	color_variant[]: (0.0044, 0.0044, 0.0044)
+	color_variant[]: (0.0026, 0.0432, 0.0112)
+
+}
+}

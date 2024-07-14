@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e_of.bumper
+{
+	name: "Aero bumper"
+	price: 1250
+	unlock: 0
+	icon: "k100e_of/bump4p"
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth.k100e_of/bumper02p.pmd"
+	variant: 1
+}
+}

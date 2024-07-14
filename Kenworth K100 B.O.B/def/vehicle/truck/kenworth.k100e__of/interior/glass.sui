@@ -1,0 +1,83 @@
+glass_pane_data : .kenworthk100.r.pane.1a
+{
+	locator: glass1a
+	size: (0.183, 0.485)
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}
+
+glass_pane_data : .kenworthk100.r.pane.1b
+{
+	locator: glass1b
+	size: (0.183, 0.485)
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}
+
+glass_pane_data : .kenworthk100.r.pane.2a
+{
+	locator: glass2a
+	size: (0.158, 0.655)
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}
+
+glass_pane_data : .kenworthk100.r.pane.2b
+{
+	locator: glass2b
+	size: (0.158, 0.655)
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}
+
+glass_pane_data : .kenworthk100.r.pane.3a
+{
+	locator: glass3a
+	size: (1.152, 0.705)
+	wipers[]: .kenworthk100.r.pane.wiper1
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}
+wiper_data : .kenworthk100.r.pane.wiper1
+{
+	center_bone: blade1
+	length: 0.49
+}
+
+glass_pane_data : .kenworthk100.r.pane.3b
+{
+	locator: glass3b
+	size: (1.152, 0.705)
+	wipers[]: .kenworthk100.r.pane.wiper2
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}
+wiper_data : .kenworthk100.r.pane.wiper2
+{
+	center_bone: blade2
+	length: 0.49
+}
+
+glass_pane_data : .kenworthk100.r.pane.4a
+{
+	locator: glass4a
+	size: (0.58, 0.51)
+
+	openable_window_bone: glass_l
+	openable_window_mask: "/vehicle/truck/kenworth.k100e_of/interior/win_mask_l.mask"
+
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}
+
+glass_pane_data : .kenworthk100.r.pane.4b
+{
+	locator: glass4b
+	size: (0.58, 0.51)
+
+	openable_window_bone: glass_r
+	openable_window_mask: "/vehicle/truck/kenworth.k100e_of/interior/win_mask_r.mask"
+
+	drop_size_minimum: 0.010
+	drop_size_maximum: 0.018
+}

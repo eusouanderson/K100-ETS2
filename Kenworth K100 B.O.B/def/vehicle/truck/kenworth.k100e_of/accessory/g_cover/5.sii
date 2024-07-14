@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : 5.kenworth.k100e_of.g_cover
+
+{
+	name: "Winterfront"
+	price: 120
+	unlock: 0
+	icon: "k100e_of/gcc"
+	exterior_model: "/vehicle/truck/upgrade/g_cover/kenworth.k100e_of/cover05.pmd"
+	
+	conflict_with[]: "2.kenworth.k100e_of.grille"
+	conflict_with[]: "3.kenworth.k100e_of.grille"
+	conflict_with[]: "4.kenworth.k100e_of.grille"
+}
+}

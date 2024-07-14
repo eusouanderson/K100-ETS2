@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 1.kenworth.k100e_of.ak_rubber
+{
+	name: "Rubber"
+	price: 20
+	unlock: 0
+	icon: "k100e_of/rubber"
+	variant: 1
+	exterior_model: "/vehicle/truck/upgrade/ak_rubber/kenworth.k100e_of/ak_rubber01.pmd"
+	suitable_for[]: "3.kenworth.k100e_of.aero_kit"
+	suitable_for[]: "4.kenworth.k100e_of.aero_kit"
+	suitable_for[]: "5.kenworth.k100e_of.aero_kit"
+}
+}

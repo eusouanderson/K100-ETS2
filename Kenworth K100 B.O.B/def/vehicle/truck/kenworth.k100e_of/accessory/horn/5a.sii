@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 5a.kenworth.k100e_of.horn
+{
+	name: "Dome"
+	price: 110
+	unlock: 0
+	icon: "k100e_of/horn5"
+	variant: b1
+	exterior_model: "/vehicle/truck/upgrade/horn/kenworth.k100e_of/horn02.pmd"
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+}
+}

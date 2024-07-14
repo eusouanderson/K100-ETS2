@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e__of.w_trim
+{
+	name: "Air vent trim"
+	price: 50
+	unlock: 0
+	icon: "k100e_of/trim1"
+	variant: 2
+	exterior_model: "/vehicle/truck/upgrade/w_trim/kenworth.k100e_of/w_trim01.pmd"
+	suitable_for[]: "2.kenworth.k100e__of.cabin"
+}
+}

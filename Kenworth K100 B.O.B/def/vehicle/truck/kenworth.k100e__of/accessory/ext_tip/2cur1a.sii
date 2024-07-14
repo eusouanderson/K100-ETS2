@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : 2cur1a.kenworth.k100e__of.ext_tip
+{
+	name: "5 inch short"
+	price: 120
+	unlock: 0
+	icon: "k100e_of/tip2"
+	variant: 2cur1a
+	exterior_model: "/vehicle/truck/upgrade/ext_tip/kenworth.k100e_of/ext_tip01.pmd"
+	suitable_for[]: "2.kenworth.k100e__of.ext_rack"
+	suitable_for[]: "3.kenworth.k100e__of.ext_rack"
+}
+}

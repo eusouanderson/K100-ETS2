@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 7.kenworth.k100e__of.bumper
+{
+	name: "Bullbar 2 paint"
+	price: 1750
+	unlock: 0
+	icon: "k100e_of/bump7"
+	variant: 1
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth.k100e_of/bumper06.pmd"
+	coll: "/vehicle/truck/upgrade/bumper/kenworth.k100e_of/bumper06.pmc"
+}
+}

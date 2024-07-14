@@ -1,0 +1,32 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str51.kenworth.k100e__of.paint_job
+{
+    name:                            "Scottsdale"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str51"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str51.tobj"
+    mask_g_color:                   (0.1762, 0.4237, 0.4078)
+    mask_b_color:                   (0.0319, 0.1643, 0.1530)
+    base_color:                     (0, 0.0294, 0.0294)
+    mask_b_locked:                  false
+    mask_g_locked:                  false
+    mask_r_locked:                  true
+    base_color_locked:              false
+	
+	color_variant[]: (0.0074, 0.0246, 0.0554)
+	color_variant[]: (0.0732, 0.1663, 0.3189)
+	color_variant[]: (0.3278, 0.4289, 0.4873)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	
+	color_variant[]: (0.0535, 0.0384, 0.0234)
+	color_variant[]: (0.2141, 0.1696, 0.0842)
+	color_variant[]: (0.4550, 0.4289, 0.3369)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+
+
+}
+}

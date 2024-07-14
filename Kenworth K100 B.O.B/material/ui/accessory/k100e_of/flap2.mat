@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "flap2.tobj"
+	texture_name : "texture"
+}

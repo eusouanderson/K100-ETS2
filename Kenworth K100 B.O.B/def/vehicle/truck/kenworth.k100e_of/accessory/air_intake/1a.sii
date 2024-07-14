@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : 1a.kenworth.k100e_of.air_intake
+{
+	name: "Short"
+	price: 100
+	unlock: 0
+	icon: "k100e_of/intake1"
+	variant: 1a
+	exterior_model: "/vehicle/truck/upgrade/air_intake/kenworth.k100e_of/air_intake01.pmd"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/inlet/a1cap1a.sii"
+	suitable_for[]: "1.kenworth.k100e_of.ext_rack"
+}
+}

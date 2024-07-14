@@ -1,0 +1,308 @@
+SiiNunit
+{
+vehicle: .tdealer.kenworth_2.k100e__of
+{
+ accessories[]: .kenw_2.data
+ accessories[]: .kenw_2.cabin
+ accessories[]: .kenw_2.paint
+ accessories[]: .kenw_2.wtrim
+ accessories[]: .kenw_2.aero
+ accessories[]: .kenw_2.pos
+ accessories[]: .kenw_2.flares
+ accessories[]: .kenw_2.mirror
+ accessories[]: .kenw_2.grille
+ accessories[]: .kenw_2.headl
+ accessories[]: .kenw_2.interior
+ accessories[]: .kenw_2.wood
+ accessories[]: .kenw_2.swheel
+ accessories[]: .kenw_2.gps
+ accessories[]: .kenw_2.ladder
+ accessories[]: .kenw_2.visor
+ accessories[]: .kenw_2.rooflamp
+ accessories[]: .kenw_2.horn
+ accessories[]: .kenw_2.chassis
+ accessories[]: .kenw_2.cables
+ accessories[]: .kenw_2.mmudflap
+ accessories[]: .kenw_2.extrack
+ accessories[]: .kenw_2.shield
+ accessories[]: .kenw_2.extip
+ accessories[]: .kenw_2.intake
+ accessories[]: .kenw_2.inlet
+ accessories[]: .kenw_2.bumper
+ accessories[]: .kenw_2.rbumper
+ accessories[]: .kenw_2.mudflap
+ accessories[]: .kenw_2.fender
+ accessories[]: .kenw_2.skirts
+ accessories[]: .kenw_2.engine
+ accessories[]: .kenw_2.transm
+ accessories[]: .kenw_2.ftire
+ accessories[]: .kenw_2.fdisc
+ accessories[]: .kenw_2.fhub
+ accessories[]: .kenw_2.fnuts
+ accessories[]: .kenw_2.rtire1
+ accessories[]: .kenw_2.rdisc1
+ accessories[]: .kenw_2.rhub1
+ accessories[]: .kenw_2.rnuts1
+ accessories[]: .kenw_2.rtire2
+ accessories[]: .kenw_2.rdisc2
+ accessories[]: .kenw_2.rhub2
+ accessories[]: .kenw_2.rnuts2
+}
+
+vehicle_accessory : .kenw_2.data {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/data.sii"
+}
+
+vehicle_accessory : .kenw_2.cabin {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/cabin/2.sii"
+}
+
+vehicle_paint_job_accessory : .kenw_2.paint {
+    base_color : (0.0079, 0.0209, 0.0454)
+    mask_g_color: (0.2870, 0.3867, 0.4431)
+    mask_b_color: (0.0591, 0.1373, 0.2773)
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/paint_job/k100str51.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.wtrim {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/w_trim/2a.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.aero {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/aero_kit/1.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.pos {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/position/3.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.flares {
+	slot_name: 8
+	slot_name[0]: "slot_1"
+	slot_name[1]: "slot_2"
+	slot_name[2]: "slot_3"
+	slot_name[3]: "slot_4"
+	slot_name[4]: "slot_5"
+	slot_name[5]: "slot_6"
+	slot_name[6]: "slot_7"
+	slot_name[7]: "slot_8"
+	slot_hookup: 8
+	slot_hookup[0]: "k100light01.addon_hookup"
+	slot_hookup[1]: "k100light01.addon_hookup"
+	slot_hookup[2]: "k100light01.addon_hookup"
+	slot_hookup[3]: "k100light01.addon_hookup"
+	slot_hookup[4]: "k100light01.addon_hookup"
+	slot_hookup[5]: "k100light01.addon_hookup"
+	slot_hookup[6]: "k100light01.addon_hookup"
+	slot_hookup[7]: "k100light01.addon_hookup"
+	wear: 0
+	data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/cab_flares/2.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.mirror {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/mirror/3.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.grille {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/grille/1.sii"
+}
+
+vehicle_accessory : .kenw_2.headl {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/head_light/standard.sii"
+}
+
+vehicle_accessory : .kenw_2.interior {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/interior/2_3e.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.wood {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/wood/2.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.swheel {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/steering_w/3.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.gps {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/gps_r/of_gps.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.ladder {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/ladder/1.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.visor {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/sunshield/1.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.rooflamp {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/rooflamps/2.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.horn {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/horn/6.sii"
+}
+
+vehicle_accessory : .kenw_2.chassis {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/chassis/3b.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.cables {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/trlr_cables/2.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.mmudflap {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/m_mudflap/1.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.extrack {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/ext_rack/3.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.shield {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/shield/2.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.extip {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/ext_tip/2flat2b.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.intake {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/air_intake/3a.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.inlet {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/inlet/a3ram.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.bumper {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/bumper/1.sii"
+}
+vehicle_addon_accessory : .kenw_2.rbumper {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/rearbumper/2.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.mudflap {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/mudflap/1a.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.fender {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/fender/3b.sii"
+}
+
+vehicle_addon_accessory : .kenw_2.skirts {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/accessory/sideskirt/4.sii"
+}
+
+vehicle_accessory : .kenw_2.engine {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/engine/isx15_550.sii"
+}
+
+vehicle_accessory : .kenw_2.transm {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.k100e__of/transmission/18_speed2.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.ftire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.fdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_disc/front_disc_02_matt_gray.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.fhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.fnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_nuts/front_nuts_01_steel.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.rtire1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.rdisc1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_01_matt_gray.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.rhub1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.rnuts1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.rtire2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.rdisc2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_01_matt_gray.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.rhub2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .kenw_2.rnuts2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+}

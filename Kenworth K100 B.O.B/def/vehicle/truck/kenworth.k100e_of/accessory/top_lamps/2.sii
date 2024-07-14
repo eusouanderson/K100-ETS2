@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e_of.top_lamps
+{
+	name: "Markers 2"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/lamps3"
+	exterior_model: "/vehicle/truck/upgrade/top_lamps/kenworth.k100e_of/top_lamps02.pmd"
+}
+}

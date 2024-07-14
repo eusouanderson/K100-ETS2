@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_paint_job_data : oft.kenworth.k100e_of.paint_job
+{
+    name:                            "oft"
+    stock:                           true
+    airbrush:                        true
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/oft.tobj"
+	alternate_uvset:				 true
+
+
+}
+}

@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_paint_job_data : color8.kenworth.k100e__of.paint_job
+{
+	name: "Gray"
+	price: 700
+	unlock: 0
+	base_color : (0.2, 0.2, 0.2)
+	base_color_locked: true
+	stock: true
+	suitable_for[]: "*.k100e.kenworth.k100e__of.gps_l"
+	suitable_for[]: "*.k100e.kenworth.k100e__of.gps_r"
+	
+}
+}

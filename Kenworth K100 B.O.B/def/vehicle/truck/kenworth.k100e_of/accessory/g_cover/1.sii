@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : 1.kenworth.k100e_of.g_cover
+
+{
+	name: "Bug screen"
+	price: 100
+	unlock: 0
+	icon: "k100e_of/gca"
+	exterior_model: "/vehicle/truck/upgrade/g_cover/kenworth.k100e_of/cover01.pmd"
+	
+	conflict_with[]: "2.kenworth.k100e_of.grille"
+	conflict_with[]: "3.kenworth.k100e_of.grille"
+	conflict_with[]: "4.kenworth.k100e_of.grille"
+}
+}

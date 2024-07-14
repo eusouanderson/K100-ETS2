@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 7.kenworth.k100e__of.horn
+{
+	name: "Square"
+	price: 100
+	unlock: 0
+	icon: "k100e_of/horn4"
+	variant: c1
+	exterior_model: "/vehicle/truck/upgrade/horn/kenworth.k100e_of/horn02.pmd"
+	suitable_for[]: "2.kenworth.k100e__of.cabin"
+	suitable_for[]: "4.kenworth.k100e__of.cabin"
+	suitable_for[]: "6.kenworth.k100e__of.cabin"
+}
+}

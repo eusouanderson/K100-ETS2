@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : p5b.kenworth.k100e_of.sideskirt
+{
+	name: "Plastic and chrome"
+	price: 900
+	unlock: 0
+	icon: "k100e_of/skirt4"
+	variant: 2
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/kenworth.k100e_of/skirt05p.pmd"
+	suitable_for[]: "2b.kenworth.k100e_of.chassis"
+	conflict_with[]: "1.kenworth.k100e_of.ladder"
+	conflict_with[]: "3.kenworth.k100e_of.ladder"
+	conflict_with[]: "4.kenworth.k100e_of.ladder"
+	conflict_with[]: "1.kenworth.k100e_of.fender"
+	overrides[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/ladder/2.sii"
+}
+}

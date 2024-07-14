@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 4a.kenworth.k100e_of.horn
+{
+	name: "Horn 1 double"
+	price: 180
+	unlock: 0
+	icon: "k100e_of/horn6"
+	variant: a2
+	exterior_model: "/vehicle/truck/upgrade/horn/kenworth.k100e_of/horn02.pmd"
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+	conflict_with[]: "2.kenworth.k100e_of.aero_kit"
+	conflict_with[]: "5.kenworth.k100e_of.aero_kit"
+}
+}

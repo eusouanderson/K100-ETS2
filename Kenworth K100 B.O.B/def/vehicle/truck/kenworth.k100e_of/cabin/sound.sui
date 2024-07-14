@@ -1,0 +1,6 @@
+# Configuration of the sounds for the specific truck.
+	sounds:4
+	sounds[]: "horn|/sound/truck/horn/horn_02.soundref"
+	sounds[]: "air_horn|/sound/truck/air_horn/air_horn_04.soundref"
+	sounds[]: "aero_noise|/sound/truck/default/noise_aero.soundref"
+	sounds[]: "rain_noise|/sound/truck/default/noise_rain.soundref"

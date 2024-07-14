@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : coolbox.kenworth.k100e_of.acc_slpr_b
+{
+	name: "Electric Cool Box"
+	price: 1110
+	unlock: 0
+	icon: "coolbox.dlc_toys"
+   
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/coolbox.dlc_toys.pmd"
+}
+}

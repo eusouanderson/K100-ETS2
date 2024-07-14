@@ -1,0 +1,24 @@
+SiiNunit
+{
+accessory_addon_data : 1.kenworth.k100e_of.ext_rack
+{
+	name: "Single exhaust"
+	price: 100
+	unlock: 0
+	icon: "k100e_of/rack1"
+	exterior_model: "/vehicle/truck/upgrade/ext_rack/kenworth.k100e_of/ext_rack01.pmd"
+	variant: 11
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/air_intake/1a.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/ext_tip/1cur1b.sii"
+	suitable_for[]: "1a.kenworth.k100e_of.chassis"
+	suitable_for[]: "1b.kenworth.k100e_of.chassis"
+	suitable_for[]: "2a.kenworth.k100e_of.chassis"
+	suitable_for[]: "2b.kenworth.k100e_of.chassis"
+	suitable_for[]: "3a.kenworth.k100e_of.chassis"
+	suitable_for[]: "3b.kenworth.k100e_of.chassis"
+	suitable_for[]: "4a.kenworth.k100e_of.chassis"
+	suitable_for[]: "4b.kenworth.k100e_of.chassis"
+	suitable_for[]: "6a.kenworth.k100e_of.chassis"
+	suitable_for[]: "6b.kenworth.k100e_of.chassis"
+}
+}

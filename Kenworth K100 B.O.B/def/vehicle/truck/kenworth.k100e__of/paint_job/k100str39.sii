@@ -1,0 +1,23 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str39.kenworth.k100e__of.paint_job
+{
+    name:                            "Potomac"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str38"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str39.tobj"
+    mask_r_color:                   (0.6428, 0.1157, 0.0152)
+    mask_g_color:                   (0.0824, 0.0382, 0.0199)
+    mask_b_color:                   (0.7878, 0.4933, 0.0110)
+    base_color:                     (0.4793, 0, 0)
+    mask_r_locked:                  false
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+
+
+}
+}

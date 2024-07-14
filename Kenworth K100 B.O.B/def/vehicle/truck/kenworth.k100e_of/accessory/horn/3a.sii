@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 3a.kenworth.k100e_of.horn
+{
+	name: "Horn 1"
+	price: 90
+	unlock: 0
+	icon: "k100e_of/horn3"
+	variant: a1
+	exterior_model: "/vehicle/truck/upgrade/horn/kenworth.k100e_of/horn02.pmd"
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+}
+}

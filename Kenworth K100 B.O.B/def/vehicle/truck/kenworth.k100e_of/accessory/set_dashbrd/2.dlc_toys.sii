@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : toys2.kenworth.k100e_of.set_dashbrd
+{
+	name: "Cabin accessories"
+	price: 1
+	unlock: 0
+	icon: "k100e_of/cabflares"
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+   
+	interior_model: "/vehicle/truck/upgrade/acc_slots/kenworth.k100e_of/toys02.pmd"
+}
+}

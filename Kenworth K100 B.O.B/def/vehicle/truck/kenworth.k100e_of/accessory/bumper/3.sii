@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : 3.kenworth.k100e_of.bumper
+{
+	name: "Custom chrome 1"
+	price: 600
+	unlock: 0
+	icon: "k100e_of/bump3"
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth.k100e_of/bumper04.pmd"
+	variant: 1
+}
+}

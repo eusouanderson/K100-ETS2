@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : a3ram.kenworth.k100e_of.inlet
+{
+	name: "Air ram"
+	price: 220
+	unlock: 0
+	icon: "k100e_of/inlet5"
+	exterior_model: "/vehicle/truck/upgrade/inlet/kenworth.k100e_of/inlet01.pmd"
+	variant: 3c
+	look: 1
+	suitable_for[]: "3a.kenworth.k100e_of.air_intake"
+}
+}

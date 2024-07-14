@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 1c.kenworth.k100e_of.t_cover
+
+{
+	name: "Tank covers - yellow"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/tcov3"
+	exterior_model: "/vehicle/truck/upgrade/t_cover/kenworth.k100e_of/t_cover1a.pmd"
+	look: 3
+	suitable_for[]: "1a.kenworth.k100e_of.chassis"
+	suitable_for[]: "2b.kenworth.k100e_of.chassis"
+}
+}

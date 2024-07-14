@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : 4.kenworth.k100e_of.aero_kit
+{
+	name: "Varashield 2"
+	price: 1800
+	unlock: 0
+	icon: "k100e_of/aerokit4"
+	exterior_model: "/vehicle/truck/upgrade/aero_kit/kenworth.k100e_of/aero_kit02.pmd"
+	variant: 2
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/position/3.sii"
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+	
+}
+}

@@ -1,0 +1,30 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str33b.kenworth.k100e__of.paint_job
+{
+    name:                            "Omega"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str33"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str33b.tobj"
+    mask_r_color:                   (0.0294, 0.0511, 0.1219)
+    mask_g_color:                   (0.0294, 0.0511, 0.1219)
+    mask_b_color:                   (0.1401, 0.0920, 0.2681)
+    base_color:                     (0.7, 0.7, 0.7)
+    mask_r_locked:                  false
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	suitable_for[]: "2.kenworth.k100e__of.cabin"
+	suitable_for[]: "4.kenworth.k100e__of.cabin"
+	
+	color_variant[]: (0.4497, 0.3553, 0.1085)
+	color_variant[]: (0.6151, 0.6151, 0.6151)
+	color_variant[]: (0.0089, 0.1632, 0.0517)
+	color_variant[]: (0.0089, 0.1632, 0.0517)
+
+
+}
+}

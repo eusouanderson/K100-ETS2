@@ -1,0 +1,31 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str4.kenworth.k100e_of.paint_job
+{
+    name:                            "Comet"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str4"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str4.tobj"
+    mask_b_color:                   (0.0015, 0.0680, 0.2471)
+    base_color:                     (0.7010, 0.6978, 0.6602)
+    mask_b_locked:                  false
+    mask_g_locked:                  true
+    mask_r_locked:                  true
+    base_color_locked:              false
+
+	color_variant[]: (0.0865, 0.0610, 0.0465)
+	color_variant[]: (0.7716, 0.1728, 0.0670)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+
+	color_variant[]: (0.4818, 0.0246, 0.0246)
+	color_variant[]: (0.4187, 0.3414, 0.2559)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+
+
+}
+}

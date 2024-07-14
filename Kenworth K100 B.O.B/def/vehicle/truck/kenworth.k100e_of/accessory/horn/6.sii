@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 6.kenworth.k100e_of.horn
+{
+	name: "Double dome"
+	price: 220
+	unlock: 0
+	icon: "k100e_of/horn8"
+	variant: b2
+	exterior_model: "/vehicle/truck/upgrade/horn/kenworth.k100e_of/horn02.pmd"
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+	suitable_for[]: "6.kenworth.k100e_of.cabin"
+}
+}

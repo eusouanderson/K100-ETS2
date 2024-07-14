@@ -1,0 +1,9 @@
+material : "eut2.dif.lum.rfx" {
+	texture[0] : "/vehicle/truck/share/dashboard.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.170645 , 0.170645 , 0.170645 }
+	reflection : 0
+	shininess : 3
+	specular : { 0 , 0 , 0 }
+}

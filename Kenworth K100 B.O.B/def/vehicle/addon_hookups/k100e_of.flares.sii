@@ -1,0 +1,112 @@
+accessory_hookup_data : k100light1.addon_hookup
+{
+	name: "Light Chrome 1"
+	price: 90
+	icon: "smalllight_01"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_01.pmd"
+	suitable_for[]: "cab_flares"
+	suitable_for[]: "aero_kit"
+	suitable_for[]: "aerokit"
+	suitable_for[]: "ext_rack"
+	suitable_for[]: "sideskirt"
+	electric_type: vehicle
+	unlock: 0
+}
+accessory_hookup_data : k100light2.addon_hookup
+{
+	name: "Light Chrome 2"
+	price: 120
+	icon: "smalllight_02"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_02.pmd"
+	suitable_for[]: "cab_flares"
+	suitable_for[]: "aero_kit"
+	suitable_for[]: "aerokit"
+	suitable_for[]: "ext_rack"
+	suitable_for[]: "sideskirt"
+	electric_type: vehicle
+	unlock: 0
+}
+accessory_hookup_data : k100light3.addon_hookup
+{
+	name: "Light Chrome 3"
+	price: 110
+	icon: "smalllight_03"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_03.pmd"
+	suitable_for[]: "cab_flares"
+	suitable_for[]: "aero_kit"
+	suitable_for[]: "aerokit"
+	suitable_for[]: "ext_rack"
+	suitable_for[]: "sideskirt"
+	electric_type: vehicle
+ 	unlock: 0
+}
+accessory_hookup_data : k100light4.addon_hookup
+{
+	name: "Light Chrome 4"
+	price: 90
+	icon: "smalllight_04"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_04.pmd"
+	suitable_for[]: "cab_flares"
+	suitable_for[]: "aero_kit"
+	suitable_for[]: "aerokit"
+	suitable_for[]: "ext_rack"
+	suitable_for[]: "sideskirt"
+	electric_type: vehicle
+	unlock: 0
+}
+accessory_hookup_data : k100light5.addon_hookup
+{
+	name: "Light Chrome 5"
+	price: 90
+	icon: "smalllight_05"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_05.pmd"
+	suitable_for[]: "cab_flares"
+	suitable_for[]: "aero_kit"
+	suitable_for[]: "aerokit"
+	suitable_for[]: "ext_rack"
+	suitable_for[]: "sideskirt"
+	electric_type: vehicle
+	unlock: 0
+}
+accessory_hookup_data : k100light6.addon_hookup
+{
+	name: "Light Chrome 6"
+	price: 110
+	icon: "smalllight_06"
+	model: "/vehicle/truck/upgrade/smalllight/smalllight_06.pmd"
+	suitable_for[]: "cab_flares"
+	suitable_for[]: "aero_kit"
+	suitable_for[]: "aerokit"
+	suitable_for[]: "ext_rack"
+	suitable_for[]: "sideskirt"
+	electric_type: vehicle
+	unlock: 0
+}
+accessory_hookup_data : k100light0.addon_hookup
+{
+	name: "Marker"
+	price: 70
+	icon: "of_marker01"
+	model: "/vehicle/truck/upgrade/smalllight/of_marker01.pmd"
+	suitable_for[]: "cab_flares"
+	suitable_for[]: "aero_kit"
+	suitable_for[]: "aerokit"
+	suitable_for[]: "ext_rack"
+	suitable_for[]: "sideskirt"
+	electric_type: vehicle
+	unlock: 0
+}
+accessory_hookup_data : k100light01.addon_hookup
+{
+	name: "Marker 2"
+	price: 80
+	icon: "of_marker02"
+	model: "/vehicle/truck/upgrade/smalllight/of_marker02.pmd"
+	suitable_for[]: "cab_flares"
+	suitable_for[]: "aero_kit"
+	suitable_for[]: "aerokit"
+	suitable_for[]: "ext_rack"
+	suitable_for[]: "sideskirt"
+	electric_type: vehicle
+	unlock: 0
+}

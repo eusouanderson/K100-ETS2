@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color2.kenworth.k100e__of.paint_job
+{
+	name: "Wine"
+	price: 700
+	unlock: 0
+	base_color : (0.1538, 0.0030, 0.0188)
+	base_color_locked: true
+	stock: true
+}
+}

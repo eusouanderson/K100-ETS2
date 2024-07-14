@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "chs5.tobj"
+	texture_name : "texture"
+}

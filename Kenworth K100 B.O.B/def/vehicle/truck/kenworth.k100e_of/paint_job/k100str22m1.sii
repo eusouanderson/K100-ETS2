@@ -1,0 +1,32 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str22m1.kenworth.k100e_of.paint_job
+{
+    name:                            "Salem metallic"
+    price:                           7000
+    unlock:                          0
+    icon:                            "k100e_of/str22m"
+    stock:                           false
+    airbrush:                        true
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str22m1.tobj"
+    base_color:                     (0.0965, 0.0929, 0.0706)
+    base_color_locked:              false
+    flipflake:                      true
+    flip_color:                     (0.0228, 0.0195, 0.0121)
+    flake_color:                    (0.0965, 0.0929, 0.0706)
+    flip_strength:                  0.93
+    flake_uvscale:                  20
+    flake_density:                  0.6
+    flake_shininess:                30
+    flake_clearcoat_rolloff:        5
+    flake_noise:                    "/material/custom/flake_noise.tobj"
+    flip_color_locked:              false
+    flake_color_locked:             false
+	suitable_for[]: "1.kenworth.k100e_of.cabin"
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+	suitable_for[]: "3.kenworth.k100e_of.cabin"
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+
+
+}
+}

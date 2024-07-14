@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 3.kenworth.k100e__of.position
+{
+	name: "50 degrees"
+	price: 1
+	unlock: 0
+	icon: "k100e_of/vs3"
+	exterior_model: "/vehicle/truck/upgrade/aero_kit/kenworth.k100e_of/position01.pmd"
+	variant: 3
+	suitable_for[]: "1.kenworth.k100e__of.aero_kit"
+	suitable_for[]: "4.kenworth.k100e__of.aero_kit"
+
+}
+}

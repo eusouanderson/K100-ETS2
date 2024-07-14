@@ -1,0 +1,15 @@
+SiiNunit 
+{ 
+mod_package : .package_name
+{
+
+package_version:			"1.2.1"
+author:						"B.O.B"
+category[]:					"truck"
+icon:						"123.jpg"
+description_file:			"456.txt"
+
+
+
+}
+}

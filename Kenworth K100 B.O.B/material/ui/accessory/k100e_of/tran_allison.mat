@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "tran_allison.tobj" 
+	texture_name : "texture" 
+} 

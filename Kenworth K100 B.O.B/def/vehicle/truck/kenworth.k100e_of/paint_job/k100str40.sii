@@ -1,0 +1,23 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str40.kenworth.k100e_of.paint_job
+{
+    name:                            "Meteor"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str40"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str40.tobj"
+    mask_r_color:                   (0.2471, 0.2234, 0.0322)
+    mask_g_color:                   (0.7160, 0.4730, 0.0150)
+    mask_b_color:                   (0.0552, 0.0807, 0.0185)
+    base_color:                     (0.0552, 0.0807, 0.0185)
+    mask_r_locked:                  false
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+
+
+}
+}

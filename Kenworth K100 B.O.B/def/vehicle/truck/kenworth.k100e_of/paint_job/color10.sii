@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_paint_job_data : color10.kenworth.k100e_of.paint_job
+{
+	name: "Clown Car 3000"
+	icon: "k100e_of/chs8"
+	price: 700
+	unlock: 0
+	base_color : (0.7210, 0.1050, 0.2800)
+	base_color_locked: true
+	stock: true
+	suitable_for[]: "standard.kenworth.k100e_of.steering_w"
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+	overrides[]: "/def/vehicle/truck/kenworth.k100e_of/chassis/4b.sii"
+	
+}
+}

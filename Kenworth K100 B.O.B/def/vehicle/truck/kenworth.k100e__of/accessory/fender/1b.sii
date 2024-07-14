@@ -1,0 +1,23 @@
+SiiNunit
+{
+accessory_addon_data : 1b.kenworth.k100e__of.fender
+
+{
+	name: "fender 1 long"
+	price: 450
+	unlock: 0
+	icon: "k100e_of/fen3"
+	variant: long
+	exterior_model: "/vehicle/truck/upgrade/fender/kenworth.k100e_of/fender01.pmd"
+	suitable_for[]: "2a.kenworth.k100e__of.chassis"
+	suitable_for[]: "2b.kenworth.k100e__of.chassis"
+	suitable_for[]: "3a.kenworth.k100e__of.chassis"
+	suitable_for[]: "3b.kenworth.k100e__of.chassis"
+	suitable_for[]: "4a.kenworth.k100e__of.chassis"
+	suitable_for[]: "4b.kenworth.k100e__of.chassis"
+	suitable_for[]: "5a.kenworth.k100e__of.chassis"
+	suitable_for[]: "5b.kenworth.k100e__of.chassis"
+	suitable_for[]: "7a.kenworth.k100e__of.chassis"
+	suitable_for[]: "7b.kenworth.k100e__of.chassis"
+}
+}

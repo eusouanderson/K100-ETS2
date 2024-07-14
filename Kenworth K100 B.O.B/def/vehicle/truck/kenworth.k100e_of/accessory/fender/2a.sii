@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 2a.kenworth.k100e_of.fender
+
+{
+	name: "fender 2 single"
+	price: 350
+	unlock: 0
+	icon: "k100e_of/fenpl1"
+	variant: 1single
+	exterior_model: "/vehicle/truck/upgrade/fender/kenworth.k100e_of/fender02.pmd"
+	suitable_for[]: "1a.kenworth.k100e_of.chassis"
+	suitable_for[]: "1b.kenworth.k100e_of.chassis"
+}
+}

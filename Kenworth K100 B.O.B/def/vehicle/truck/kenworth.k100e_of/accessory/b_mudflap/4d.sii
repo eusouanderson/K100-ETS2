@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : 4d.kenworth.k100e_of.b_mudflap
+{
+	name: "Mudflap"
+	price: 150
+	unlock: 0
+	icon: "k100e_of/flap4"
+	exterior_model: "/vehicle/truck/upgrade/mudflaps/kenworth.k100e_of/mudflap_b8.pmd"
+	look: 2
+	suitable_for[]: "6.kenworth.k100e_of.bumper"
+	suitable_for[]: "7.kenworth.k100e_of.bumper"
+	suitable_for[]: "8.kenworth.k100e_of.bumper"
+}
+}

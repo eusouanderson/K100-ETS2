@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.nofresnel.rfx" {
+	texture[0] : "/vehicle/truck/kenworth.k100e_of/interior/metal2_clr.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.261924 , 0.256058 , 0.216491 }
+	env_factor : { 0.519871 , 0.507838 , 0.426839 }
+	reflection : 0
+	shininess : 10
+	specular : { 0.105782 , 0.103552 , 0.0884581 }
+}

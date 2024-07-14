@@ -1,0 +1,41 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str36.kenworth.k100e__of.paint_job
+{
+    name:                            "Lonestar"
+    price:                           3500
+    unlock:                          0
+    icon:                            "k100e_of/str36"
+    stock:                           false
+    airbrush:                        false
+    paint_job_mask:                  "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str36.tobj"
+    mask_g_color:                   (0.5384, 0.2415, 0.0550)
+    mask_b_color:                   (0.4550, .4243, 0.3327)
+    base_color:                     (0.0693, 0.0116, 0)
+    mask_r_locked:                  true
+    mask_g_locked:                  false
+    mask_b_locked:                  false
+    base_color_locked:              false
+	suitable_for[]: "1.kenworth.k100e__of.cabin"
+	suitable_for[]: "2.kenworth.k100e__of.cabin"
+	suitable_for[]: "3.kenworth.k100e__of.cabin"
+	suitable_for[]: "4.kenworth.k100e__of.cabin"
+	
+	color_variant[]: (0.0030, 0.2289, 0.0554)
+	color_variant[]: (0.6337, 0.6337, 0.6337)
+	color_variant[]: (0.0019, 0.0535, 0.0325)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	
+	color_variant[]: (0.4603, 0.4603, 0.4603)
+	color_variant[]: (0.0089, 0.0089, 0.0089)
+	color_variant[]: (0.4818, 0.0157, 0.0157)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+	
+	color_variant[]: (0.0074, 0.0384, 0.1632)
+	color_variant[]: (0.0112, 0.1827, 0.1302)
+	color_variant[]: (0.3986, 0.3986, 0.3986)
+	color_variant[]: (0.0000, 0.0000, 0.0000)
+
+
+}
+}

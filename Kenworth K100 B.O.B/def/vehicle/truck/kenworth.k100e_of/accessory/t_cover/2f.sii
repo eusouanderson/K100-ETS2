@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : 2f.kenworth.k100e_of.t_cover
+
+{
+	name: "Tank covers - white"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/tcov6"
+	exterior_model: "/vehicle/truck/upgrade/t_cover/kenworth.k100e_of/t_cover2a.pmd"
+	look: 6
+	suitable_for[]: "2a.kenworth.k100e_of.chassis"
+}
+}

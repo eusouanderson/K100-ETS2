@@ -1,0 +1,35 @@
+SiiNunit
+{
+accessory_cabin_data : 4.kenworth.k100e_of.cabin
+{
+	name: "Aerodyne VIT"
+	price: 21000
+	unlock: 0
+	icon: "k100e_of/cab4"
+
+	model: "/vehicle/truck/kenworth.k100e_of/cabin.pmd"
+	collision: "/vehicle/truck/kenworth.k100e_of/cabin.pmc"
+	variant: cab_d
+	look: default
+	windows_model: "/vehicle/truck/kenworth.k100e_of/windows.pmd"
+	left_window_anim: "/vehicle/truck/kenworth.k100e_of/win_l.pma"
+	right_window_anim: "/vehicle/truck/kenworth.k100e_of/win_r.pma"
+	wiper_model: "/vehicle/truck/kenworth.k100e_of/wipers.pmd"
+	wiper_anim: "/vehicle/truck/kenworth.k100e_of/wipers.pma"
+	drl_with_headlights: 0.9
+	suspension: false
+
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/chassis/2b.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/interior/4_3f.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/paint_job/color4.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/ladder/1.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/wood/4.sii"
+	conflict_with[]: "1a.kenworth.k100e_of.chassis"
+	conflict_with[]: "2a.kenworth.k100e_of.chassis"
+	conflict_with[]: "3a.kenworth.k100e_of.chassis"
+	conflict_with[]: "4a.kenworth.k100e_of.chassis"
+	conflict_with[]: "6a.kenworth.k100e_of.chassis"
+	conflict_with[]: "7a.kenworth.k100e_of.chassis"
+@include "sound.sui"
+}
+}

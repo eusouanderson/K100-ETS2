@@ -1,0 +1,28 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str4m.kenworth.k100e_of.paint_job
+{
+    name:                            "Comet metallic"
+    price:                           5200
+    unlock:                          0
+    icon:                            "k100e_of/str4m"
+    stock:                           false
+    airbrush:                        true
+    paint_job_mask:             	 "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str4m.tobj"
+    base_color:                     (0.1595, 0.1595, 0.1595)
+    base_color_locked:              false
+    flipflake:                      true
+    flip_color:                     (0.0294, 0.0294, 0.0294)
+    flake_color:                    (0.6863, 0.6863, 0.6863)
+    flip_strength:                  0.93
+    flake_uvscale:                  20
+    flake_density:                  0.6
+    flake_shininess:                30
+    flake_clearcoat_rolloff:        5
+    flake_noise:                    "/material/custom/flake_noise.tobj"
+    flip_color_locked:              false
+    flake_color_locked:             false
+
+
+}
+}

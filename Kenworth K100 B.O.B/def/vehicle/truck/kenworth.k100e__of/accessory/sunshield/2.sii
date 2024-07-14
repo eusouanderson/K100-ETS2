@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e__of.sunshield
+{
+	name: "Chrome visor"
+	price: 1100
+	unlock: 0
+	icon: "k100e_of/visor1"
+	exterior_model: "/vehicle/truck/upgrade/sunshield/kenworth.k100e_of/visor01.pmd"
+	interior_model: "/vehicle/truck/upgrade/sunshield/kenworth.k100e_of/visor01int.pmd"
+	variant: 3
+	look: 3
+
+
+}
+}

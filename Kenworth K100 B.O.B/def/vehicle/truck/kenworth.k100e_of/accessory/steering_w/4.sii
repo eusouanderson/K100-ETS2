@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : 4.kenworth.k100e_of.steering_w
+{
+	name: "Standard 2"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/sw4"
+	interior_model: "/vehicle/truck/upgrade/s_wheel/kenworth.k100e_of/standard02.pmd"
+
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e_of.steering_w
+{
+	name: "Classic white"
+	price: 210
+	unlock: 0
+	icon: "k100e_of/sw2"
+	look: 2
+	interior_model: "/vehicle/truck/upgrade/s_wheel/kenworth.k100e_of/Classic.pmd"
+
+}
+}

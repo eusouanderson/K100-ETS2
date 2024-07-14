@@ -1,0 +1,5 @@
+# Configuration of the transmission sounds for the specific truck.
+	sounds: 3
+	sounds[]: "retarder|/sound/truck/default/retarder.soundref"
+	sounds[]: "gear_grind|/sound/truck/default/effects_gear_grind.soundref"
+	sounds[]: "gear_wrong|/sound/truck/default/effects_gear_wrong.soundref"

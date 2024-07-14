@@ -1,0 +1,28 @@
+SiiNunit
+{
+accessory_paint_job_data : k100str10m.kenworth.k100e__of.paint_job
+{
+    name:                            "Eclipse metallic"
+    price:                           5200
+    unlock:                          0
+    icon:                            "k100e_of/str10b"
+    stock:                           false
+    airbrush:                        true
+    paint_job_mask:             	 "/vehicle/truck/upgrade/paintjob/kenworth.k100e_of/str10m.tobj"
+    base_color:                     (0.3278, 0.3189, 0.2761)
+    base_color_locked:              false
+    flipflake:                      true
+    flip_color:                     (0.0960, 0.1034, 0.0775)
+    flake_color:                    (0.4238, 0.4187, 0.3101)
+    flip_strength:                  0.93
+    flake_uvscale:                  20
+    flake_density:                  0.6
+    flake_shininess:                30
+    flake_clearcoat_rolloff:        5
+    flake_noise:                    "/material/custom/flake_noise.tobj"
+    flip_color_locked:              false
+    flake_color_locked:             false
+
+
+}
+}

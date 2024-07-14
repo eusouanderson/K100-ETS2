@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : 2.kenworth.k100e__of.cab_flares
+{
+	name: "Flares"
+	price: 1
+	unlock: 0
+	icon: "k100e_of/cabflares"
+	exterior_model: "/vehicle/truck/upgrade/flares/kenworth.k100e_of/flares02.pmd"
+	suitable_for[]: "2.kenworth.k100e__of.cabin"
+}
+}

@@ -1,0 +1,13 @@
+material : "eut2.dif.spec.mult.dif.spec.tsnmapuv16.rfx" {
+	texture[0] : "/vehicle/truck/kenworth.k100e_of/interior/leather3ao.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/kenworth.k100e_of/interior/leather_ao.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/vehicle/truck/kenworth.k100e_of/interior/leather3nm.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.0248935 , 0.0827603 , 0.0651708 }
+	reflection : 0
+	shininess : 100
+	specular : { 0.101397 , 0.390982 , 0.307707 }
+}

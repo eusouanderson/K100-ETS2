@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : 1.kenworth.k100e__of.s_mirror
+{
+	name: "Side mirror"
+	price: 70
+	unlock: 0
+	icon: "k100e_of/mir5"
+	exterior_model: "/vehicle/truck/upgrade/mirror/kenworth.k100e_of/mirror_01_side.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/kenworth.k100e_of/mirror_01_side_int.pmd"
+}
+}

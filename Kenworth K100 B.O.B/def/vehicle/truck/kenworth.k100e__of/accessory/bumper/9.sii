@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : 9.kenworth.k100e__of.bumper
+{
+	name: "Original bumper"
+	price: 200
+	unlock: 0
+	icon: "k100e_of/bump9"
+	variant: 1
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth.k100e_of/bumper08.pmd"
+}
+}

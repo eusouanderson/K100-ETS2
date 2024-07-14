@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : 4f.kenworth.k100e__of.g_cover
+
+{
+	name: "Winterfront 2 white"
+	price: 500
+	unlock: 0
+	icon: "k100e_of/gce6"
+	exterior_model: "/vehicle/truck/upgrade/g_cover/kenworth.k100e_of/cover04.pmd"
+	look: 6
+	
+	conflict_with[]: "2.kenworth.k100e__of.grille"
+	conflict_with[]: "3.kenworth.k100e__of.grille"
+	conflict_with[]: "4.kenworth.k100e__of.grille"
+}
+}

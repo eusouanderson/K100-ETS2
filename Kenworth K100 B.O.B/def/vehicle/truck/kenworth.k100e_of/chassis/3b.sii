@@ -1,0 +1,42 @@
+SiiNunit
+{
+accessory_chassis_data : 3b.kenworth.k100e_of.chassis
+{
+	name: "6x4 b"
+	price: 12000
+	unlock: 0
+	info[]: "6x4"
+	info[]: "310 @@gal@@"
+	icon: "k100e_of/chs6"
+	model: "/vehicle/truck/kenworth.k100e_of/chassis.pmd"
+	collision: "/vehicle/truck/kenworth.k100e_of/chassis.pmc"
+	residual_travel[]: 0.12 	# 1st axle
+	residual_travel[]: 0.09	# 2nd axle
+	residual_travel[]: 0.09	# 3rd axle
+	tank_size: 1184
+	# adblue_tank_size: 160
+	air_tank_pressure: 8.5
+	variant: 3b
+	look: default
+	extended_shadow_texture: "/vehicle/truck/kenworth.k100e_of/33b.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/kenworth.k100e_of/33b.pmd"
+	powered_axle[0]: false	# front axle
+	powered_axle[1]: true	# rear axle
+	powered_axle[2]: true	# rear axle
+	kerb_weight[0]:	5100	# 10220lb
+	kerb_weight[1]:	2000	# 3970lb
+	kerb_weight[2]:	2300	# 3970lb
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/rearbumper/2.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/bumper/2.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/ext_rack/2.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/fender/2b.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/trlr_cables/2.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.k100e_of/accessory/m_mudflap/1.sii"
+	suitable_for[]: "2.kenworth.k100e_of.cabin"
+	suitable_for[]: "4.kenworth.k100e_of.cabin"
+@include "sound.sui"
+}
+}
